@@ -1,12 +1,12 @@
-Name,Address1,Address2,City,State,Code,Website
-Beach Brewing,?,?,Orlando,FL,?,?
-Charlie and Jake's Brewery and BBQ,6300 North Wickham Road #137,?,Melbourne,FL,32940,?
-Cigar City Brewing,3924 West Spruce Street Suite A,?,Tampa,FL,33607,cigarcitybeer.com
-Florida Beer Company,2500 S. Harbor City Blvd.,?,Melbourne,FL,32901,www.floridabeer.com
-Gordash Brewing Company,3804 S.W 30th Ave,?,Fort Lauderdale,FL,33312,holymackerelbeers.com
-Margaritaville Brewing Company,?,?,Jacksonville,FL,32209,www.landsharklager.com
-McGuire's Irish Pub and Brewery - Pensacola,600 East Gregory Street,?,Pensacola,FL,32501,?
-Orlando Brewing,1301 Atlanta Avenue,?,Orlando,FL,32806,www.orlandobrewing.com
-Saint Somewhere Brewing Company,1441 Savannah Ave Unit E,?,Tarpon Springs,FL,34689,www.saintsomewherebrewing.com
-Stroh Brewery Company,?,?,Tampa,FL,?,?
-Tampa Bay Brewing,1812 North 15th Street,?,Tampa,FL,33605,?
+Name,Address,City,State,Code,Website
+Beach Brewing,?,Orlando,FL,?,?
+Charlie and Jake's Brewery and BBQ,6300 North Wickham Road #137,Melbourne,FL,32940,?
+Cigar City Brewing,3924 West Spruce Street Suite A,Tampa,FL,33607,cigarcitybeer.com
+Florida Beer Company,2500 S. Harbor City Blvd.,Melbourne,FL,32901,www.floridabeer.com
+Gordash Brewing Company,3804 S.W 30th Ave,Fort Lauderdale,FL,33312,holymackerelbeers.com
+Margaritaville Brewing Company,?,Jacksonville,FL,32209,www.landsharklager.com
+McGuire's Irish Pub and Brewery - Pensacola,600 East Gregory Street,Pensacola,FL,32501,?
+Orlando Brewing,1301 Atlanta Avenue,Orlando,FL,32806,www.orlandobrewing.com
+Saint Somewhere Brewing Company,1441 Savannah Ave Unit E,Tarpon Springs,FL,34689,www.saintsomewherebrewing.com
+Stroh Brewery Company,?,Tampa,FL,?,?
+Tampa Bay Brewing,1812 North 15th Street,Tampa,FL,33605,?

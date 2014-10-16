@@ -1,6 +1,6 @@
-Name,Address1,Address2,City,State,Code,Website
-Atlanta Brewing Company,2323 Defoor Hills Rd NW,?,Atlanta,GA,30318,www.atlantabrewing.com
-Moon River Brewing Company,21 W. Bay St.,?,Savannah,GA,31401,www.moonriverbrewing.com
-New River Brewing,2015 Afond Court,?,Atlanta,GA,30341,?
-Sweetwater Brewing - Atlanta,195 Ottley Drive,?,Atlanta,GA,30324,www.sweetwaterbrew.com
-Terrapin Beer Company,196 Alps Road,?,Athens,GA,30606,www.terrapinbeer.com
+Name,Address,City,State,Code,Website
+Atlanta Brewing Company,2323 Defoor Hills Rd NW,Atlanta,GA,30318,www.atlantabrewing.com
+Moon River Brewing Company,21 W. Bay St.,Savannah,GA,31401,www.moonriverbrewing.com
+New River Brewing,2015 Afond Court,Atlanta,GA,30341,?
+Sweetwater Brewing - Atlanta,195 Ottley Drive,Atlanta,GA,30324,www.sweetwaterbrew.com
+Terrapin Beer Company,196 Alps Road,Athens,GA,30606,www.terrapinbeer.com

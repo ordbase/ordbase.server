@@ -1,17 +1,17 @@
-Name,Address1,Address2,City,State,Code,Website
-Bobcat Cafe & Brewery,4 Main Street,?,Bristol,VT,5443,www.bobcatcafe.com
-Catamount Brewing,?,?,White River Junction,VT,?,?
-Green Mountain Beverage,153 Pond Lane,?,Middlebury,VT,5753,www.gmbeverage.com
-Harpoon Brewery - Windsor,336 Ruth Carney Drive,?,Windsor,VT,5089,www.harpoonbrewery.com
-Kross Brewing,?,?,Morrisville,VT,?,?
-Long Trail Brewing Co,Route 4 & 100A,?,Bridgewater Corners,VT,5035,www.longtrail.com
-Magic Hat,5 Bartlett Bay Road,?,South Burlington,VT,5403,www.magichat.net
-Orlio Organic,5 Bartlett Bay Road,?,South Burlington,VT,5403,www.orlio.net
-Otter Creek Brewing & Wolaver's Organic Ales,793 Exchange Street,?,Middlebury,VT,5753,www.ottercreekbrewing.com
-Rock Art Brewery,254 Wilkins Street,?,Morrisville,VT,5661,www.rockartbrewery.com
-Stonecutters Brewhouse,14 N Main St.,?,Barre,VT,5641,www.stonecuttersbrewhouse.com
-Switchback Brewing Co,PO Box 4210,?,Burlington,VT,5406,?
-The Alchemist,23 South Main Street,?,Waterbury,VT,5676,www.alchemistbeer.com
-Three Needs Brewery and Taproom,207 College Street,?,Burlington,VT,5401,?
-Trout River Brewing,58 Broad Street,?,Lyndonville,VT,5851,www.troutriverbrewing.com
-Vermont Pub & Brewery,144 College St.,?,Burlington,VT,5401,www.vermontbrewery.com
+Name,Address,City,State,Code,Website
+Bobcat Cafe & Brewery,4 Main Street,Bristol,VT,5443,www.bobcatcafe.com
+Catamount Brewing,?,White River Junction,VT,?,?
+Green Mountain Beverage,153 Pond Lane,Middlebury,VT,5753,www.gmbeverage.com
+Harpoon Brewery - Windsor,336 Ruth Carney Drive,Windsor,VT,5089,www.harpoonbrewery.com
+Kross Brewing,?,Morrisville,VT,?,?
+Long Trail Brewing Co,Route 4 & 100A,Bridgewater Corners,VT,5035,www.longtrail.com
+Magic Hat,5 Bartlett Bay Road,South Burlington,VT,5403,www.magichat.net
+Orlio Organic,5 Bartlett Bay Road,South Burlington,VT,5403,www.orlio.net
+Otter Creek Brewing & Wolaver's Organic Ales,793 Exchange Street,Middlebury,VT,5753,www.ottercreekbrewing.com
+Rock Art Brewery,254 Wilkins Street,Morrisville,VT,5661,www.rockartbrewery.com
+Stonecutters Brewhouse,14 N Main St.,Barre,VT,5641,www.stonecuttersbrewhouse.com
+Switchback Brewing Co,PO Box 4210,Burlington,VT,5406,?
+The Alchemist,23 South Main Street,Waterbury,VT,5676,www.alchemistbeer.com
+Three Needs Brewery and Taproom,207 College Street,Burlington,VT,5401,?
+Trout River Brewing,58 Broad Street,Lyndonville,VT,5851,www.troutriverbrewing.com
+Vermont Pub & Brewery,144 College St.,Burlington,VT,5401,www.vermontbrewery.com

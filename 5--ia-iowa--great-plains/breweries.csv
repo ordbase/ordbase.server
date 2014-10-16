@@ -1,13 +1,13 @@
-Name,Address1,Address2,City,State,Code,Website
-Bricktown Brewery,299 Main Street,?,Dubuque,IA,52001,?
-Cedar Brewing,?,?,Cedar Rapids,IA,?,?
-Court Avenue Brewing,309 Court Avenue,?,Des Moines,IA,50309,?
-Dubuque Brewing and Bottling,?,?,Dubuque,IA,?,?
-Firehouse Brewery & Restaurant,?,?,Red Oak,IA,?,?
-Fitzpatrick's Brewing,?,?,Iowa City,IA,?,?
-Front Street Brewery,208 East River Drive,?,Davenport,IA,52801,?
-Millstream Brewing,835 48th Avenue,?,Amana,IA,52203,?
-Olde Main Brewing,316 Main Street,?,Ames,IA,50010,?
-Raccoon River Brewing,200 North Tenth Street,?,Des Moines,IA,50309,?
-Stone City Brewing,?,?,Solon,IA,?,?
-Upper Mississippi Brewing,?,?,Clinton,IA,?,?
+Name,Address,City,State,Code,Website
+Bricktown Brewery,299 Main Street,Dubuque,IA,52001,?
+Cedar Brewing,?,Cedar Rapids,IA,?,?
+Court Avenue Brewing,309 Court Avenue,Des Moines,IA,50309,?
+Dubuque Brewing and Bottling,?,Dubuque,IA,?,?
+Firehouse Brewery & Restaurant,?,Red Oak,IA,?,?
+Fitzpatrick's Brewing,?,Iowa City,IA,?,?
+Front Street Brewery,208 East River Drive,Davenport,IA,52801,?
+Millstream Brewing,835 48th Avenue,Amana,IA,52203,?
+Olde Main Brewing,316 Main Street,Ames,IA,50010,?
+Raccoon River Brewing,200 North Tenth Street,Des Moines,IA,50309,?
+Stone City Brewing,?,Solon,IA,?,?
+Upper Mississippi Brewing,?,Clinton,IA,?,?

@@ -1,16 +1,16 @@
-Name,Address1,Address2,City,State,Code,Website
-Aberdeen Brewing,210 Aberdeen Dr.,?,Valparaiso,IN,?,?
-Back Road Brewery,310 Perry Street,?,LaPorte,IN,46350,www.backroadbrewery.com
-Barley Island Brewing,639 Conner Street,?,Noblesville,IN,46060,?
-Bloomington Brewing Company,1795 E 10th St |,?,Bloomington,IN,47402,bbc.bloomington.com
-Broad Ripple Brewing,842 East 65th Street,?,Indianapolis,IN,46220,?
-Circle V Brewing,?,?,Indianapolis,IN,?,?
-Duneland Brewhouse Pub and Restaurant,?,?,Michigan City,IN,46360,?
-Lafayette Brewing,622 Main Street,?,Lafayette,IN,47901,?
-Mad Anthony Brewing,2002 Broadway,?,Fort Wayne,IN,46802,?
-Mishawaka Brewing,3703 North Main Street,?,Mishawaka,IN,46545,?
-New Albanian Brewing,3312 Plaza Drive,?,New Albany,IN,47150,www.newalbanian.com
-Oaken Barrel Brewing,50 North Airport Parkway,?,Greenwood,IN,46143,www.oakenbarrel.com
-Oyster Bar Bistro and Brewery,?,?,Fort Wayne,IN,46825,?
-Three Floyds Brewing,9750 Indiana Parkway,?,Munster,IN,46321,www.threefloydspub.com
-Upland Brewing,350 West Eleventh Street,?,Bloomington,IN,47404,www.uplandbeer.com
+Name,Address,City,State,Code,Website
+Aberdeen Brewing,210 Aberdeen Dr.,Valparaiso,IN,?,?
+Back Road Brewery,310 Perry Street,LaPorte,IN,46350,www.backroadbrewery.com
+Barley Island Brewing,639 Conner Street,Noblesville,IN,46060,?
+Bloomington Brewing Company,1795 E 10th St |,Bloomington,IN,47402,bbc.bloomington.com
+Broad Ripple Brewing,842 East 65th Street,Indianapolis,IN,46220,?
+Circle V Brewing,?,Indianapolis,IN,?,?
+Duneland Brewhouse Pub and Restaurant,?,Michigan City,IN,46360,?
+Lafayette Brewing,622 Main Street,Lafayette,IN,47901,?
+Mad Anthony Brewing,2002 Broadway,Fort Wayne,IN,46802,?
+Mishawaka Brewing,3703 North Main Street,Mishawaka,IN,46545,?
+New Albanian Brewing,3312 Plaza Drive,New Albany,IN,47150,www.newalbanian.com
+Oaken Barrel Brewing,50 North Airport Parkway,Greenwood,IN,46143,www.oakenbarrel.com
+Oyster Bar Bistro and Brewery,?,Fort Wayne,IN,46825,?
+Three Floyds Brewing,9750 Indiana Parkway,Munster,IN,46321,www.threefloydspub.com
+Upland Brewing,350 West Eleventh Street,Bloomington,IN,47404,www.uplandbeer.com
