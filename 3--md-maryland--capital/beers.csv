@@ -1,44 +1,44 @@
-Brewery,City,Name,Tags
-Brewer's Art,Baltimore,Ozzy,?
-Brewer's Art,Baltimore,Proletary,?
-Brewer's Art,Baltimore,Resurrection,?
-Brimstone Brewing,Frederick,Big Ale,?
-Brimstone Brewing,Frederick,Stone Beer,?
-Clipper City Brewing Co.,Baltimore,Below Decks,?
-Clipper City Brewing Co.,Baltimore,Chesapeake Amber Ale,?
-Clipper City Brewing Co.,Baltimore,Gold Ale,?
-Clipper City Brewing Co.,Baltimore,Hang Ten,?
-Clipper City Brewing Co.,Baltimore,Heavy Seas Big DIPA,?
-Clipper City Brewing Co.,Baltimore,Heavy Seas Prosit! Imperial Oktoberfest Lager,?
-Clipper City Brewing Co.,Baltimore,Heavy Seas The Great Pumpkin Imperial Pumpkin Ale,?
-Clipper City Brewing Co.,Baltimore,Holy Sheet,?
-Clipper City Brewing Co.,Baltimore,Loose Cannon Hop3 Ale,?
-Clipper City Brewing Co.,Baltimore,Pale Ale,?
-Clipper City Brewing Co.,Baltimore,Peg Leg Stout,?
-Clipper City Brewing Co.,Baltimore,Red Sky at Night,?
-Clipper City Brewing Co.,Baltimore,Small Craft Warning,?
-Clipper City Brewing Co.,Baltimore,Winter Storm,?
-Clipper City Brewing Co.,Baltimore,Yule Tide,?
-Deep Creek Brewing,McHenry,Big Bear Stout,?
-DuClaw,Baltimore,Bad Moon Porter,?
-DuClaw,Baltimore,Blackout,?
-DuClaw,Baltimore,Hellrazer,?
-DuClaw,Baltimore,Misfit Red,?
-DuClaw,Baltimore,Snake Oil,?
-DuClaw,Baltimore,Venom,?
-Eastern Shore Brewing,St Michaels,Ameri-Hefe,?
-Eastern Shore Brewing,St Michaels,St. Michaels Blonde Ale,?
-Ellicott Mills Brewing,Ellicott City,Alpenhof Baltic Porter,?
-Fordham Brewing,Annapolis,Copper Head Ale,?
-Fordham Brewing,Annapolis,Oyster Stout,?
-Frederick Brewing,Frederick,Hempen Ale,?
-Hook & Ladder Brewing Company,Silver Spring,Hook & Ladder Backdraft Brown,?
-Hook & Ladder Brewing Company,Silver Spring,Hook & Ladder Golden Ale,?
-Hook & Ladder Brewing Company,Silver Spring,Hook & Ladder Lighter,?
-Stillwater Artisanal Ales,Baltimore,Stateside Saison,?
-Tuppers Hop Pocket Ale,Bethesda,Hop Pocket Ale,?
-Wharf Rat,Baltimore,Oliver ESB,?
-Wharf Rat,Baltimore,Oliver Irish Red,?
-Wharf Rat,Baltimore,Oliver Pagan Porter,?
-White Marsh Brewing Company,White Marsh,Avenue Ale,?
-Wild Goose Brewery,Fredrick,Wild Goose Pumpkin Patch,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Brewer's Art,Baltimore,Ozzy,7.25%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Brewer's Art,Baltimore,Proletary,5%,?,?,?
+Brewer's Art,Baltimore,Resurrection,7%,?,?,belgian_and_french_ale|belgian_style_dubbel
+Brimstone Brewing,Frederick,Big Ale,?,?,?,british_ale|old_ale
+Brimstone Brewing,Frederick,Stone Beer,?,?,?,?
+Clipper City Brewing Co.,Baltimore,Below Decks,10%,?,?,north_american_ale|american_style_barley_wine_ale
+Clipper City Brewing Co.,Baltimore,Chesapeake Amber Ale,?,?,?,north_american_ale|american_style_amber_red_ale
+Clipper City Brewing Co.,Baltimore,Gold Ale,4.9%,?,?,north_american_ale|american_style_pale_ale
+Clipper City Brewing Co.,Baltimore,Hang Ten,10%,?,?,german_ale|south_german_style_weizenbock
+Clipper City Brewing Co.,Baltimore,Heavy Seas Big DIPA,10.6%,?,?,north_american_ale|imperial_or_double_india_pale_ale
+Clipper City Brewing Co.,Baltimore,Heavy Seas Prosit! Imperial Oktoberfest Lager,9%,?,?,german_lager|german_style_oktoberfest
+Clipper City Brewing Co.,Baltimore,Heavy Seas The Great Pumpkin Imperial Pumpkin Ale,8.5%,?,?,other_style|pumpkin_beer
+Clipper City Brewing Co.,Baltimore,Holy Sheet,9%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Clipper City Brewing Co.,Baltimore,Loose Cannon Hop3 Ale,7.25%,?,?,north_american_ale|american_style_india_pale_ale
+Clipper City Brewing Co.,Baltimore,Pale Ale,5%,?,?,north_american_ale|american_style_pale_ale
+Clipper City Brewing Co.,Baltimore,Peg Leg Stout,8%,?,?,north_american_ale|american_style_imperial_stout
+Clipper City Brewing Co.,Baltimore,Red Sky at Night,7.25%,?,?,belgian_and_french_ale|french_&_belgian_style_saison
+Clipper City Brewing Co.,Baltimore,Small Craft Warning,7.25%,?,?,german_lager|german_style_pilsener
+Clipper City Brewing Co.,Baltimore,Winter Storm,7.5%,?,?,british_ale|extra_special_bitter
+Clipper City Brewing Co.,Baltimore,Yule Tide,10%,?,?,belgian_and_french_ale|belgian_style_tripel
+Deep Creek Brewing,McHenry,Big Bear Stout,?,?,?,north_american_ale|american_style_stout
+DuClaw,Baltimore,Bad Moon Porter,5.1%,?,?,irish_ale|porter
+DuClaw,Baltimore,Blackout,5%,?,?,german_lager|german_style_schwarzbier
+DuClaw,Baltimore,Hellrazer,6.2%,?,?,north_american_ale|american_style_india_pale_ale
+DuClaw,Baltimore,Misfit Red,5.1%,?,?,north_american_ale|american_style_amber_red_ale
+DuClaw,Baltimore,Snake Oil,7%,?,?,?
+DuClaw,Baltimore,Venom,5.6%,?,?,north_american_ale|american_style_pale_ale
+Eastern Shore Brewing,St Michaels,Ameri-Hefe,?,?,?,german_ale|south_german_style_hefeweizen
+Eastern Shore Brewing,St Michaels,St. Michaels Blonde Ale,?,?,?,north_american_ale|golden_or_blonde_ale
+Ellicott Mills Brewing,Ellicott City,Alpenhof Baltic Porter,?,?,?,irish_ale|porter
+Fordham Brewing,Annapolis,Copper Head Ale,?,?,?,north_american_ale|american_style_amber_red_ale
+Fordham Brewing,Annapolis,Oyster Stout,?,?,?,north_american_ale|american_style_stout
+Frederick Brewing,Frederick,Hempen Ale,?,?,?,?
+Hook & Ladder Brewing Company,Silver Spring,Hook & Ladder Backdraft Brown,?,?,?,north_american_ale|american_style_brown_ale
+Hook & Ladder Brewing Company,Silver Spring,Hook & Ladder Golden Ale,?,?,?,other_style|light_american_wheat_ale_or_lager
+Hook & Ladder Brewing Company,Silver Spring,Hook & Ladder Lighter,?,?,?,north_american_lager|american_style_light_lager
+Stillwater Artisanal Ales,Baltimore,Stateside Saison,?,?,?,belgian_and_french_ale|french_&_belgian_style_saison
+Tuppers Hop Pocket Ale,Bethesda,Hop Pocket Ale,?,?,?,north_american_ale|american_style_pale_ale
+Wharf Rat,Baltimore,Oliver ESB,?,?,?,british_ale|extra_special_bitter
+Wharf Rat,Baltimore,Oliver Irish Red,?,?,?,irish_ale|irish_style_red_ale
+Wharf Rat,Baltimore,Oliver Pagan Porter,?,?,?,irish_ale|porter
+White Marsh Brewing Company,White Marsh,Avenue Ale,4.1%,?,?,north_american_ale|american_style_pale_ale
+Wild Goose Brewery |,Fredrick,Wild Goose Pumpkin Patch,6%,?,?,other_style|pumpkin_beer

@@ -1,13 +1,13 @@
-Brewery,City,Name,Tags
-Eddie McStiff's Brewpub,Moab,Chestnut Brown Ale,?
-Hoppers Seafood & Grill,Midvale,Uno Mas,?
-Moab Brewery,Moab,Dead Horse Ale,?
-Moab Brewery,Moab,Scorpion Pale Ale,?
-Park City Brewing,Heber City,Steamer,?
-Park City Brewing,Heber City,Tie Die Red,?
-Rivers Effortless Dining,Salt Lake City,Porter,?
-Salt Lake Brewing - Squatters,Salt Lake City,Black Forest Schwarzbier,?
-Uinta Brewing Compnay,Salt Lake City,Gelande Amber Lager,?
-Uinta Brewing Compnay,Salt Lake City,King's Peak Porter,?
-Utah Brewers Cooperative,Salt Lake City,Wasatch 1st Amendment Lager,?
-Utah Brewers Cooperative,Salt Lake City,Wasatch Polygamy Porter,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Eddie McStiff's Brewpub,Moab,Chestnut Brown Ale,?,?,?,north_american_ale|american_style_brown_ale
+Hoppers Seafood & Grill,Midvale,Uno Mas,?,?,?,north_american_lager|american_style_lager
+Moab Brewery,Moab,Dead Horse Ale,?,?,?,?
+Moab Brewery,Moab,Scorpion Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Park City Brewing,Heber City,Steamer,?,?,?,?
+Park City Brewing,Heber City,Tie Die Red,?,?,?,north_american_ale|american_style_amber_red_ale
+Rivers Effortless Dining,Salt Lake City,Porter,?,?,?,irish_ale|porter
+Salt Lake Brewing - Squatters,Salt Lake City,Black Forest Schwarzbier,?,?,?,german_lager|german_style_schwarzbier
+Uinta Brewing Compnay,Salt Lake City,Gelande Amber Lager,?,?,?,?
+Uinta Brewing Compnay,Salt Lake City,King's Peak Porter,4%,?,?,irish_ale|porter
+Utah Brewers Cooperative,Salt Lake City,Wasatch 1st Amendment Lager,4%,?,?,north_american_lager|american_style_lager
+Utah Brewers Cooperative,Salt Lake City,Wasatch Polygamy Porter,?,?,?,irish_ale|porter

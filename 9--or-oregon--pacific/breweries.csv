@@ -1,37 +1,37 @@
-Name,Address,City,State,Code,Website
-Alameda Brewhouse,4765 NE Fremont,Portland,OR,97213,?
-BJ's Pizza | Grill | and Brewery - Jantzen Beach,12105 North Center Avenue,Portland,OR,97217,?
-Bill's Tavern & Brewhouse,188 North Hemlock,Cannon Beach,OR,97110,?
-Blitz-Weinhard Brewing,Portland OR 97209,Portland,OR,?,?
-BridgePort Brewing,1313 NW Marshall Street,Portland,OR,97209,?
-Caldera Brewing,540 Clover Lane,Ashland,OR,97520,?
-Deschutes Brewery,901 SW Simpson Avenue,Bend,OR,97702,?
-Double Mountain Brewery & Taproom,8 Fourth Street,Hood River,OR,97031,?
-Full Sail Brewing #1,506 Columbia Street,Hood River,OR,97031,?
-Golden Valley Brewery and Pub,980 NE Fourth Street,McMinnville,OR,97128,?
-Hair of the Dog Brewing,4509 SE 23rd Avenue,Portland,OR,97202,?
-Hawks Brewing,?,Roseburg,OR,97470,?
-Hopworks Urban Brewery,2944 SE Powell Blvd,Portland,OR,97202,?
-Main Street Alehouse,333 North Main Avenue,Gresham,OR,97030,?
-Mia and Pia's Pizzeria and Brewhouse,3545 Summers Lane (restaurant),Klamath Falls,OR,97603,?
-Ninkasi Brewing,272 Van Buren St,Eugene,OR,97402,?
-Nor'Wester Brewery and Public House,?,Portland,OR,?,?
-Oakshire,?,Eugene,OR,?,?
-Oakshire,?,Eugene,OR,?,?
-Oregon Trader Brewing,?,Albany,OR,?,?
-Oregon Trail Brewery,341 SW Second Street,Corvallis,OR,97333,?
-Pelican Pub & Brewery,33180 Cape Kiwanda Drive,Pacific City,OR,97135,?
-Portland Brewing,2730 NW 31st Avenue,Portland,OR,97210,?
-Raccoon Lodge and Brewpub / Cascade Brewing,7424 SW Beaverton-Hillsdale Hwy,Portland,OR,97225,?
-Rogue Ales,2320 SE OSU Drive,Newport,OR,97365,?
-Roots Organic Brewing,1520 SE Seventh Avenue,Portland,OR,97214,?
-Saxer Brewing,?,Lake Oswego,OR,?,?
-Siletz Roadhouse & Brewery,243 North Gaither Street,Siletz,OR,97380,?
-Standing Stone Brewing Company,101 Oak Street,Ashland,OR,97520,?
-Terminal Gravity Brewing,803 SE School Street,Enterprise,OR,97828,?
-Umpqua Brewing,?,Roseburg,OR,?,?
-White Oak Cider,18452 NE Ribbon Ridge Road,Newberg,OR,97132,?
-Widmer Brothers Brewing,929 North Russell Street,Portland,OR,97227,?
-Wild Duck Brewing,?,Eugene,OR,?,?
-Wild River Brewing and Pizza - Cave Junction,249 North Redwood Highway,Cave Junction,OR,97523,?
-Yamhill Brewing,?,Portland,OR,?,?
+Name,Address,City,State,Code,Website,Tags
+Alameda Brewhouse,4765 NE Fremont,Portland,OR,97213,?,?
+BJ's Pizza | Grill | and Brewery - Jantzen Beach,12105 North Center Avenue,Portland,OR,97217,?,?
+Bill's Tavern & Brewhouse,188 North Hemlock,Cannon Beach,OR,97110,?,?
+Blitz-Weinhard Brewing,Portland OR 97209,Portland,OR,,?,?
+BridgePort Brewing,1313 NW Marshall Street,Portland,OR,97209,?,?
+Caldera Brewing,540 Clover Lane,Ashland,OR,97520,?,?
+Deschutes Brewery,901 SW Simpson Avenue,Bend,OR,97702,?,?
+Double Mountain Brewery & Taproom,8 Fourth Street,Hood River,OR,97031,?,?
+Full Sail Brewing #1,506 Columbia Street,Hood River,OR,97031,?,?
+Golden Valley Brewery and Pub,980 NE Fourth Street,McMinnville,OR,97128,?,?
+Hair of the Dog Brewing,4509 SE 23rd Avenue,Portland,OR,97202,?,?
+Hawks Brewing,?,Roseburg,OR,97470,?,?
+Hopworks Urban Brewery,2944 SE Powell Blvd,Portland,OR,97202,?,?
+Main Street Alehouse,333 North Main Avenue,Gresham,OR,97030,?,?
+Mia and Pia's Pizzeria and Brewhouse,3545 Summers Lane (restaurant),Klamath Falls,OR,97603,?,?
+Ninkasi Brewing,272 Van Buren St,Eugene,OR,97402,?,?
+Nor'Wester Brewery and Public House,?,Portland,OR,,?,?
+Oakshire,?,Eugene,OR,,?,?
+Oakshire,?,Eugene,OR,,?,?
+Oregon Trader Brewing,?,Albany,OR,,?,?
+Oregon Trail Brewery,341 SW Second Street,Corvallis,OR,97333,?,?
+Pelican Pub & Brewery,33180 Cape Kiwanda Drive,Pacific City,OR,97135,?,?
+Portland Brewing,2730 NW 31st Avenue,Portland,OR,97210,?,?
+Raccoon Lodge and Brewpub / Cascade Brewing,7424 SW Beaverton-Hillsdale Hwy,Portland,OR,97225,?,?
+Rogue Ales,2320 SE OSU Drive,Newport,OR,97365,?,?
+Roots Organic Brewing,1520 SE Seventh Avenue,Portland,OR,97214,?,?
+Saxer Brewing,?,Lake Oswego,OR,,?,?
+Siletz Roadhouse & Brewery,243 North Gaither Street,Siletz,OR,97380,?,?
+Standing Stone Brewing Company,101 Oak Street,Ashland,OR,97520,?,?
+Terminal Gravity Brewing,803 SE School Street,Enterprise,OR,97828,?,?
+Umpqua Brewing,?,Roseburg,OR,,?,?
+White Oak Cider,18452 NE Ribbon Ridge Road,Newberg,OR,97132,?,?
+Widmer Brothers Brewing,929 North Russell Street,Portland,OR,97227,?,?
+Wild Duck Brewing,?,Eugene,OR,,?,?
+Wild River Brewing and Pizza - Cave Junction,249 North Redwood Highway,Cave Junction,OR,97523,?,?
+Yamhill Brewing,?,Portland,OR,,?,?

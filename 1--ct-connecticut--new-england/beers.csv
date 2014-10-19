@@ -1,9 +1,9 @@
-Brewery,City,Name,Tags
-The Cambridge House,Granby,Abijah Rowe IPA,?
-The Cambridge House,Granby,Alt,?
-The Cambridge House,Granby,Copper Hill Kolsch,?
-The Cambridge House,Granby,Old Mill Pond ESB,?
-The Cambridge House,Granby,Three Steve Stout,?
-Thomas Hooker Brewing,Bloomfield,American Pale Ale,?
-Thomas Hooker Brewing,Bloomfield,Hooker Oktoberfest,?
-Thomas Hooker Brewing,Bloomfield,Thomas Hooker Irish Red Ale,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+The Cambridge House,Granby,Abijah Rowe IPA,6.8%,?,?,north_american_ale|american_style_india_pale_ale
+The Cambridge House,Granby,Alt,5.7%,?,?,german_ale|german_style_brown_ale_altbier
+The Cambridge House,Granby,Copper Hill Kolsch,5.1%,?,?,?
+The Cambridge House,Granby,Old Mill Pond ESB,6.5%,?,?,british_ale|extra_special_bitter
+The Cambridge House,Granby,Three Steve Stout,5.3%,?,?,north_american_ale|american_style_stout
+Thomas Hooker Brewing,Bloomfield,American Pale Ale,5.2%,?,?,north_american_ale|american_style_pale_ale
+Thomas Hooker Brewing,Bloomfield,Hooker Oktoberfest,5.8%,?,?,german_lager|german_style_oktoberfest
+Thomas Hooker Brewing,Bloomfield,Thomas Hooker Irish Red Ale,5.3%,?,?,irish_ale|irish_style_red_ale

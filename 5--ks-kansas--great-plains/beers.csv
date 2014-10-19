@@ -1,11 +1,11 @@
-Brewery,City,Name,Tags
-Free State Brewing,Lawrence,Ad Astra Ale,?
-Free State Brewing,Lawrence,Old Backus Barleywine 1997,?
-Little Apple Brewing,Manhattan,Bison Brown Ale,?
-Little Apple Brewing,Manhattan,Blarney Stone Stout,?
-Little Apple Brewing,Manhattan,Bovine Belgian Winter Ale,?
-Little Apple Brewing,Manhattan,Prairie Pale,?
-Little Apple Brewing,Manhattan,Wildcat Wheat,?
-Little Apple Brewing,Manhattan,XX Black Angus Stout,?
-Pony Express Brewing,Olathe,Tornado Ale,?
-Tallgrass Brewing Co.,Manhattan,Oasis,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Free State Brewing,Lawrence,Ad Astra Ale,?,?,?,north_american_ale|american_style_brown_ale
+Free State Brewing,Lawrence,Old Backus Barleywine 1997,?,?,?,north_american_ale|american_style_barley_wine_ale
+Little Apple Brewing,Manhattan,Bison Brown Ale,?,?,?,north_american_ale|american_style_brown_ale
+Little Apple Brewing,Manhattan,Blarney Stone Stout,?,?,?,north_american_ale|american_style_stout
+Little Apple Brewing,Manhattan,Bovine Belgian Winter Ale,?,?,?,?
+Little Apple Brewing,Manhattan,Prairie Pale,?,?,?,north_american_ale|american_style_pale_ale
+Little Apple Brewing,Manhattan,Wildcat Wheat,?,?,?,north_american_lager|american_style_lager
+Little Apple Brewing,Manhattan,XX Black Angus Stout,?,?,?,north_american_ale|american_style_stout
+Pony Express Brewing,Olathe,Tornado Ale,?,?,?,north_american_ale|american_style_pale_ale
+Tallgrass Brewing Co.,Manhattan,Oasis,7.2%,93,?,north_american_ale|american_style_india_pale_ale

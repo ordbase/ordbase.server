@@ -1,63 +1,63 @@
-Brewery,City,Name,Tags
-Bricktown Brewery,Dubuque,Get Fuggled,?
-Bricktown Brewery,Dubuque,Laughing Ass,?
-Bricktown Brewery,Dubuque,Munich Dunkel,?
-Bricktown Brewery,Dubuque,Vanilla,?
-Bricktown Brewery,Dubuque,Vanilla Berry Orange,?
-Cedar Brewing,Cedar Rapids,Black Cobra Stout,?
-Cedar Brewing,Cedar Rapids,Dunkelweisse,?
-Cedar Brewing,Cedar Rapids,Flying Aces Ale,?
-Cedar Brewing,Cedar Rapids,Golden Hawk Wheat Beer,?
-Cedar Brewing,Cedar Rapids,Helles Honey Bock,?
-Cedar Brewing,Cedar Rapids,Oktoberfest,?
-Cedar Brewing,Cedar Rapids,Pardon Me Porter,?
-Cedar Brewing,Cedar Rapids,Red Rocket Amber Ale,?
-Cedar Brewing,Cedar Rapids,Ribleymeister Light,?
-Cedar Brewing,Cedar Rapids,Summer Alt,?
-Court Avenue Brewing,Des Moines,Black Hawk Stout,?
-Court Avenue Brewing,Des Moines,Capital Raspberry Wheat,?
-Court Avenue Brewing,Des Moines,ESB,?
-Court Avenue Brewing,Des Moines,Pointer Brown Ale,?
-Court Avenue Brewing,Des Moines,Topping Pale Ale,?
-Court Avenue Brewing,Des Moines,Vimalt Wheat,?
-Dubuque Brewing and Bottling,Dubuque,Champions Clubhouse Classic,?
-Dubuque Brewing and Bottling,Dubuque,Star Big Muddy Brown,?
-Dubuque Brewing and Bottling,Dubuque,Wild Boar Wild Wheat,?
-Firehouse Brewery & Restaurant,Red Oak,Bock,?
-Firehouse Brewery & Restaurant,Red Oak,Lemon Wheat,?
-Firehouse Brewery & Restaurant,Red Oak,Pilsner,?
-Firehouse Brewery & Restaurant,Red Oak,Stout,?
-Fitzpatrick's Brewing,Iowa City,Celtic Stout,?
-Fitzpatrick's Brewing,Iowa City,Hawk Rye,?
-Fitzpatrick's Brewing,Iowa City,McBride Porter,?
-Fitzpatrick's Brewing,Iowa City,Prairie Thunder Pale Ale,?
-Front Street Brewery,Davenport,Bucktown Stout,?
-Front Street Brewery,Davenport,Cherry Ale,?
-Front Street Brewery,Davenport,Hefeweizen,?
-Front Street Brewery,Davenport,Old Davenport Gold,?
-Front Street Brewery,Davenport,Raging River Ale,?
-Millstream Brewing,Amana,Colony Oatmeal Stout,?
-Millstream Brewing,Amana,Maifest,?
-Millstream Brewing,Amana,Schild Brau Amber,?
-Millstream Brewing,Amana,Schokolade Bock,?
-Olde Main Brewing,Ames,Caramel Apple Ale,?
-Olde Main Brewing,Ames,Long Face Amber,?
-Olde Main Brewing,Ames,Marzen Lager,?
-Olde Main Brewing,Ames,Mild Brown,?
-Olde Main Brewing,Ames,Off KIL Ter Scottish Ale,?
-Olde Main Brewing,Ames,Stout \To Be Named Later\"",?
-Raccoon River Brewing,Des Moines,Bandit IPA,?
-Raccoon River Brewing,Des Moines,Barnstormer Pale Ale,?
-Raccoon River Brewing,Des Moines,Maibock,?
-Raccoon River Brewing,Des Moines,Railyard Ale,?
-Raccoon River Brewing,Des Moines,Stonecutter Stout,?
-Raccoon River Brewing,Des Moines,Tallgrass Prairie Gold,?
-Raccoon River Brewing,Des Moines,Vanilla Creme Ale,?
-Stone City Brewing,Solon,Artist Colony Ale,?
-Stone City Brewing,Solon,Iowa Pale Ale,?
-Stone City Brewing,Solon,Stein Bock,?
-Upper Mississippi Brewing,Clinton,Bartles and Lager,?
-Upper Mississippi Brewing,Clinton,Hefeweizen,?
-Upper Mississippi Brewing,Clinton,Mudcat Stout,?
-Upper Mississippi Brewing,Clinton,Mullin Brown,?
-Upper Mississippi Brewing,Clinton,Pale Pale Boss Ale,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Bricktown Brewery,Dubuque,Get Fuggled,?,?,?,?
+Bricktown Brewery,Dubuque,Laughing Ass,?,?,?,north_american_lager|american_style_lager
+Bricktown Brewery,Dubuque,Munich Dunkel,?,?,?,?
+Bricktown Brewery,Dubuque,Vanilla,?,?,?,?
+Bricktown Brewery,Dubuque,Vanilla Berry Orange,?,?,?,other_style|light_american_wheat_ale_or_lager
+Cedar Brewing,Cedar Rapids,Black Cobra Stout,?,?,?,north_american_ale|american_style_stout
+Cedar Brewing,Cedar Rapids,Dunkelweisse,?,?,?,?
+Cedar Brewing,Cedar Rapids,Flying Aces Ale,?,?,?,north_american_ale|american_style_pale_ale
+Cedar Brewing,Cedar Rapids,Golden Hawk Wheat Beer,?,?,?,north_american_lager|american_style_lager
+Cedar Brewing,Cedar Rapids,Helles Honey Bock,?,?,?,german_lager|traditional_german_style_bock
+Cedar Brewing,Cedar Rapids,Oktoberfest,?,?,?,german_lager|german_style_oktoberfest
+Cedar Brewing,Cedar Rapids,Pardon Me Porter,?,?,?,irish_ale|porter
+Cedar Brewing,Cedar Rapids,Red Rocket Amber Ale,?,?,?,north_american_ale|american_style_amber_red_ale
+Cedar Brewing,Cedar Rapids,Ribleymeister Light,?,?,?,north_american_lager|american_style_lager
+Cedar Brewing,Cedar Rapids,Summer Alt,?,?,?,north_american_ale|american_style_brown_ale
+Court Avenue Brewing,Des Moines,Black Hawk Stout,?,?,?,north_american_ale|american_style_stout
+Court Avenue Brewing,Des Moines,Capital Raspberry Wheat,?,?,?,other_style|light_american_wheat_ale_or_lager
+Court Avenue Brewing,Des Moines,ESB,?,?,?,?
+Court Avenue Brewing,Des Moines,Pointer Brown Ale,?,?,?,north_american_ale|american_style_brown_ale
+Court Avenue Brewing,Des Moines,Topping Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Court Avenue Brewing,Des Moines,Vimalt Wheat,?,?,?,north_american_lager|american_style_lager
+Dubuque Brewing and Bottling,Dubuque,Champions Clubhouse Classic,?,?,?,british_ale|english_style_pale_mild_ale
+Dubuque Brewing and Bottling,Dubuque,Star Big Muddy Brown,?,?,?,north_american_lager|american_style_lager
+Dubuque Brewing and Bottling,Dubuque,Wild Boar Wild Wheat,?,?,?,north_american_lager|american_style_lager
+Firehouse Brewery & Restaurant,Red Oak,Bock,?,?,?,german_lager|traditional_german_style_bock
+Firehouse Brewery & Restaurant,Red Oak,Lemon Wheat,?,?,?,other_style|light_american_wheat_ale_or_lager
+Firehouse Brewery & Restaurant,Red Oak,Pilsner,?,?,?,?
+Firehouse Brewery & Restaurant,Red Oak,Stout,?,?,?,north_american_ale|american_style_stout
+Fitzpatrick's Brewing,Iowa City,Celtic Stout,?,?,?,north_american_ale|american_style_stout
+Fitzpatrick's Brewing,Iowa City,Hawk Rye,?,?,?,north_american_lager|american_style_lager
+Fitzpatrick's Brewing,Iowa City,McBride Porter,?,?,?,irish_ale|porter
+Fitzpatrick's Brewing,Iowa City,Prairie Thunder Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Front Street Brewery,Davenport,Bucktown Stout,?,?,?,north_american_ale|american_style_stout
+Front Street Brewery,Davenport,Cherry Ale,?,?,?,other_style|light_american_wheat_ale_or_lager
+Front Street Brewery,Davenport,Hefeweizen,?,?,?,german_ale|south_german_style_hefeweizen
+Front Street Brewery,Davenport,Old Davenport Gold,?,?,?,north_american_ale|american_style_pale_ale
+Front Street Brewery,Davenport,Raging River Ale,?,?,?,?
+Millstream Brewing,Amana,Colony Oatmeal Stout,?,?,?,north_american_ale|american_style_stout
+Millstream Brewing,Amana,Maifest,?,?,?,german_lager|german_style_oktoberfest
+Millstream Brewing,Amana,Schild Brau Amber,?,?,?,north_american_lager|american_style_lager
+Millstream Brewing,Amana,Schokolade Bock,?,?,?,german_lager|traditional_german_style_bock
+Olde Main Brewing,Ames,Caramel Apple Ale,?,?,?,british_ale|english_style_pale_mild_ale
+Olde Main Brewing,Ames,Long Face Amber,?,?,?,north_american_ale|american_style_amber_red_ale
+Olde Main Brewing,Ames,Marzen Lager,?,?,?,german_lager|german_style_oktoberfest
+Olde Main Brewing,Ames,Mild Brown,?,?,?,north_american_ale|american_style_brown_ale
+Olde Main Brewing,Ames,Off KIL Ter Scottish Ale,?,?,?,?
+Olde Main Brewing,Ames,Stout \To Be Named Later\"",?,?,?,north_american_ale|american_style_stout
+Raccoon River Brewing,Des Moines,Bandit IPA,?,?,?,north_american_ale|american_style_india_pale_ale
+Raccoon River Brewing,Des Moines,Barnstormer Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Raccoon River Brewing,Des Moines,Maibock,?,?,?,german_lager|traditional_german_style_bock
+Raccoon River Brewing,Des Moines,Railyard Ale,?,?,?,north_american_ale|american_style_brown_ale
+Raccoon River Brewing,Des Moines,Stonecutter Stout,?,?,?,north_american_ale|american_style_stout
+Raccoon River Brewing,Des Moines,Tallgrass Prairie Gold,?,?,?,?
+Raccoon River Brewing,Des Moines,Vanilla Creme Ale,?,?,?,?
+Stone City Brewing,Solon,Artist Colony Ale,5.5%,?,?,north_american_ale|american_style_amber_red_ale
+Stone City Brewing,Solon,Iowa Pale Ale,5%,?,?,north_american_ale|american_style_pale_ale
+Stone City Brewing,Solon,Stein Bock,?,?,?,german_lager|traditional_german_style_bock
+Upper Mississippi Brewing,Clinton,Bartles and Lager,4%,?,?,north_american_lager|american_style_lager
+Upper Mississippi Brewing,Clinton,Hefeweizen,4.2%,?,?,german_ale|south_german_style_hefeweizen
+Upper Mississippi Brewing,Clinton,Mudcat Stout,?,?,?,north_american_ale|american_style_stout
+Upper Mississippi Brewing,Clinton,Mullin Brown,4.8%,?,?,north_american_ale|american_style_brown_ale
+Upper Mississippi Brewing,Clinton,Pale Pale Boss Ale,4.8%,?,?,north_american_ale|american_style_pale_ale

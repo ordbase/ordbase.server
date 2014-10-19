@@ -1,89 +1,89 @@
-Brewery,City,Name,Tags
-Basil T's Brew Pub and Italian Grill,Toms River,Apple Ale,?
-Basil T's Brew Pub and Italian Grill,Toms River,Bad Seed Pumpkin Ale,?
-Climax Brewing Copmany,Roselle Park,Climax Barleywine-Style Ale,?
-Climax Brewing Copmany,Roselle Park,Climax Cream Ale,?
-Climax Brewing Copmany,Roselle Park,Climax Doppel Bock,?
-Climax Brewing Copmany,Roselle Park,Climax Extra Special Bitter Ale,?
-Climax Brewing Copmany,Roselle Park,Climax Helles,?
-Climax Brewing Copmany,Roselle Park,Climax IPA,?
-Climax Brewing Copmany,Roselle Park,Climax Nut Brown Ale,?
-Climax Brewing Copmany,Roselle Park,Climax Oktoberfest,?
-Climax Brewing Copmany,Roselle Park,Climax Wheat Ale,?
-Cricket Hill,Fairfield,Circket Hill American Ale,?
-Cricket Hill,Fairfield,Colonel Blide's Cask Ale,?
-Cricket Hill,Fairfield,Cricket Hill Hopnotic,?
-Cricket Hill,Fairfield,Cricket's Nocturne,?
-Cricket Hill,Fairfield,East Coast lager,?
-Cricket Hill,Fairfield,Fall Festivus Ale,?
-Flying Fish Brewing Company,Cherry Hill,Belgian Abbey Dubbel,?
-Flying Fish Brewing Company,Cherry Hill,ESB Ale,?
-Flying Fish Brewing Company,Cherry Hill,Exit 11 - Hoppy American Wheat,?
-Flying Fish Brewing Company,Cherry Hill,Exit 16 - Wild Rice Double IPA,?
-Flying Fish Brewing Company,Cherry Hill,Extra Pale Ale,?
-Flying Fish Brewing Company,Cherry Hill,Farmhouse Summer Ale,?
-Flying Fish Brewing Company,Cherry Hill,Grand Cru Winter Reserve,?
-Flying Fish Brewing Company,Cherry Hill,HopFish IPA,?
-Flying Fish Brewing Company,Cherry Hill,Imperial Espresso Porter,?
-Flying Fish Brewing Company,Cherry Hill,OktoberFish,?
-Gaslight Brewery,South Orange,80 Shilling,?
-Gaslight Brewery,South Orange,Bison Brown,?
-Gaslight Brewery,South Orange,Bulldog Blonde,?
-Gaslight Brewery,South Orange,Harvest Ale,?
-Gaslight Brewery,South Orange,Perfect Stout,?
-Gaslight Brewery,South Orange,Pirate Pale,?
-Gaslight Brewery,South Orange,Steam Beer,?
-Harvest Moon Brewery / Cafe,New Brunswick,Altruistic American Ale,?
-Harvest Moon Brewery / Cafe,New Brunswick,British Nut Brown,?
-Harvest Moon Brewery / Cafe,New Brunswick,Golden Blonde,?
-Heavyweight Brewing,Ocean,Old Salty,?
-High Point Wheat Beer Company,Butler,Ramstein Winter Wheat,?
-JJ Bitting Brewing,Woodbridge,Bad Boy Oktoberfest,?
-JJ Bitting Brewing,Woodbridge,Cali \Steam\" Locomotive",?
-JJ Bitting Brewing,Woodbridge,Cappa Cappa Crusher,?
-JJ Bitting Brewing,Woodbridge,Hop Garden Pale Ale,?
-Joshua Huddy's Brew Pub and Grill,Toms River,Amber,?
-Joshua Huddy's Brew Pub and Grill,Toms River,Pale Ale,?
-Joshua Huddy's Brew Pub and Grill,Toms River,Porter,?
-Krogh's Restaurant and Brewpub,Sparta,Alpine Glow Red Ale,?
-Krogh's Restaurant and Brewpub,Sparta,Brogen Meadow Pale Ale,?
-Krogh's Restaurant and Brewpub,Sparta,Gold,?
-Krogh's Restaurant and Brewpub,Sparta,Log Cabin Nut Brown,?
-Krogh's Restaurant and Brewpub,Sparta,Old Krogh Oatmeal Stout,?
-Krogh's Restaurant and Brewpub,Sparta,Packs A Punch Porter,?
-Krogh's Restaurant and Brewpub,Sparta,Three Sisters Golden Wheat,?
-Long Valley Pub & Brewery,Long Valley,Black River Brown,?
-Long Valley Pub & Brewery,Long Valley,ESB,?
-Long Valley Pub & Brewery,Long Valley,German Valley Amber,?
-Long Valley Pub & Brewery,Long Valley,Grist Mill Golden,?
-Long Valley Pub & Brewery,Long Valley,Lazy Jake Porter,?
-Long Valley Pub & Brewery,Long Valley,Oatmeal Stout,?
-New Jersey Beer Company,North Bergen,Hudson Pale Ale,?
-Pizzeria Uno Chicago Grill & Brewery,Metuchen,32 Inning Ale,?
-Pizzeria Uno Chicago Grill & Brewery,Metuchen,Bootlegger Blonde Ale,?
-Pizzeria Uno Chicago Grill & Brewery,Metuchen,Gust-N-Gale Porter,?
-Pizzeria Uno Chicago Grill & Brewery,Metuchen,Oatmeal Stout,?
-Pizzeria Uno Chicago Grill & Brewery,Metuchen,Station House Red Ale,?
-River Horse Brewing Company,Lambertville,Belgian Freeze Winter Ale,?
-River Horse Brewing Company,Lambertville,Hop Hazard,?
-River Horse Brewing Company,Lambertville,River Horse Lager,?
-River Horse Brewing Company,Lambertville,River Horse Special Ale,?
-River Horse Brewing Company,Lambertville,Summer Blonde,?
-River Horse Brewing Company,Lambertville,Tripel Horse,?
-Ship Inn Brewpub,Milford,Best Bitter,?
-Ship Inn Brewpub,Milford,ESB,?
-Ship Inn Brewpub,Milford,Golden Wheat Light,?
-Ship Inn Brewpub,Milford,Pheasant Plucker,?
-Trap Rock Restaurant and Brewery,Berkeley Heights,Blackforest Lager,?
-Trap Rock Restaurant and Brewery,Berkeley Heights,Ghost Pony Helles Lager,?
-Trap Rock Restaurant and Brewery,Berkeley Heights,Hathor Red Lager,?
-Trap Rock Restaurant and Brewery,Berkeley Heights,Octoberfest,?
-Trap Rock Restaurant and Brewery,Berkeley Heights,Pacific Coast Ale,?
-Trap Rock Restaurant and Brewery,Berkeley Heights,Yorkshire Stout,?
-Triumph Brewing of Princeton,Princeton,Amber Ale,?
-Triumph Brewing of Princeton,Princeton,Bengal Gold India Pale Ale,?
-Triumph Brewing of Princeton,Princeton,Helles Lager,?
-Triumph Brewing of Princeton,Princeton,Honey Wheat,?
-Triumph Brewing of Princeton,Princeton,Imperial Stout,?
-Triumph Brewing of Princeton,Princeton,Scottish Ale,?
-Triumph Brewing of Princeton,Princeton,Winter Wonder,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Basil T's Brew Pub and Italian Grill,Toms River,Apple Ale,?,?,?,other_style|light_american_wheat_ale_or_lager
+Basil T's Brew Pub and Italian Grill,Toms River,Bad Seed Pumpkin Ale,?,?,?,?
+Climax Brewing Copmany,Roselle Park,Climax Barleywine-Style Ale,10%,?,?,north_american_ale|american_style_barley_wine_ale
+Climax Brewing Copmany,Roselle Park,Climax Cream Ale,?,?,?,other_style|american_style_cream_ale_or_lager
+Climax Brewing Copmany,Roselle Park,Climax Doppel Bock,8%,?,?,german_lager|german_style_doppelbock
+Climax Brewing Copmany,Roselle Park,Climax Extra Special Bitter Ale,5.5%,?,?,british_ale|extra_special_bitter
+Climax Brewing Copmany,Roselle Park,Climax Helles,4.8%,?,?,german_lager|german_style_heller_bock_maibock
+Climax Brewing Copmany,Roselle Park,Climax IPA,6%,?,?,north_american_ale|american_style_india_pale_ale
+Climax Brewing Copmany,Roselle Park,Climax Nut Brown Ale,5.2%,?,?,north_american_ale|american_style_brown_ale
+Climax Brewing Copmany,Roselle Park,Climax Oktoberfest,6.2%,?,?,german_lager|german_style_oktoberfest
+Climax Brewing Copmany,Roselle Park,Climax Wheat Ale,5%,?,?,other_style|light_american_wheat_ale_or_lager
+Cricket Hill,Fairfield,Circket Hill American Ale,?,?,?,north_american_ale|american_style_amber_red_ale
+Cricket Hill,Fairfield,Colonel Blide's Cask Ale,5.5%,31,?,british_ale|ordinary_bitter
+Cricket Hill,Fairfield,Cricket Hill Hopnotic,?,?,?,north_american_ale|american_style_india_pale_ale
+Cricket Hill,Fairfield,Cricket's Nocturne,4.5%,19,?,north_american_lager|american_style_dark_lager
+Cricket Hill,Fairfield,East Coast lager,?,?,?,north_american_lager|american_style_lager
+Cricket Hill,Fairfield,Fall Festivus Ale,4.8%,?,?,north_american_ale|american_style_amber_red_ale
+Flying Fish Brewing Company,Cherry Hill,Belgian Abbey Dubbel,7%,?,?,belgian_and_french_ale|belgian_style_dubbel
+Flying Fish Brewing Company,Cherry Hill,ESB Ale,5.5%,?,?,british_ale|special_bitter_or_best_bitter
+Flying Fish Brewing Company,Cherry Hill,Exit 11 - Hoppy American Wheat,6.2%,?,?,other_style|light_american_wheat_ale_or_lager
+Flying Fish Brewing Company,Cherry Hill,Exit 16 - Wild Rice Double IPA,8.2%,?,?,north_american_ale|imperial_or_double_india_pale_ale
+Flying Fish Brewing Company,Cherry Hill,Extra Pale Ale,4.8%,?,?,north_american_ale|american_style_pale_ale
+Flying Fish Brewing Company,Cherry Hill,Farmhouse Summer Ale,?,?,?,belgian_and_french_ale|other_belgian_style_ales
+Flying Fish Brewing Company,Cherry Hill,Grand Cru Winter Reserve,7.2%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Flying Fish Brewing Company,Cherry Hill,HopFish IPA,6.2%,?,?,north_american_ale|american_style_india_pale_ale
+Flying Fish Brewing Company,Cherry Hill,Imperial Espresso Porter,8%,?,?,irish_ale|porter
+Flying Fish Brewing Company,Cherry Hill,OktoberFish,5.5%,?,?,german_lager|german_style_oktoberfest
+Gaslight Brewery,South Orange,80 Shilling,?,?,?,?
+Gaslight Brewery,South Orange,Bison Brown,5%,?,?,north_american_ale|american_style_brown_ale
+Gaslight Brewery,South Orange,Bulldog Blonde,?,?,?,?
+Gaslight Brewery,South Orange,Harvest Ale,5.6%,?,?,german_lager|german_style_oktoberfest
+Gaslight Brewery,South Orange,Perfect Stout,4.8%,?,?,north_american_ale|american_style_stout
+Gaslight Brewery,South Orange,Pirate Pale,?,?,?,north_american_ale|american_style_pale_ale
+Gaslight Brewery,South Orange,Steam Beer,?,?,?,?
+Harvest Moon Brewery / Cafe,New Brunswick,Altruistic American Ale,?,?,?,north_american_ale|american_style_pale_ale
+Harvest Moon Brewery / Cafe,New Brunswick,British Nut Brown,?,?,?,north_american_ale|american_style_brown_ale
+Harvest Moon Brewery / Cafe,New Brunswick,Golden Blonde,?,?,?,?
+Heavyweight Brewing,Ocean,Old Salty,?,?,?,?
+High Point Wheat Beer Company,Butler,Ramstein Winter Wheat,9.5%,?,?,german_lager|german_style_doppelbock
+JJ Bitting Brewing,Woodbridge,Bad Boy Oktoberfest,?,?,?,german_lager|german_style_oktoberfest
+JJ Bitting Brewing,Woodbridge,Cali \Steam\" Locomotive",?,?,?,?
+JJ Bitting Brewing,Woodbridge,Cappa Cappa Crusher,4.6%,?,?,?
+JJ Bitting Brewing,Woodbridge,Hop Garden Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Joshua Huddy's Brew Pub and Grill,Toms River,Amber,?,?,?,north_american_ale|american_style_amber_red_ale
+Joshua Huddy's Brew Pub and Grill,Toms River,Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Joshua Huddy's Brew Pub and Grill,Toms River,Porter,?,?,?,irish_ale|porter
+Krogh's Restaurant and Brewpub,Sparta,Alpine Glow Red Ale,?,?,?,north_american_ale|american_style_amber_red_ale
+Krogh's Restaurant and Brewpub,Sparta,Brogen Meadow Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Krogh's Restaurant and Brewpub,Sparta,Gold,?,?,?,?
+Krogh's Restaurant and Brewpub,Sparta,Log Cabin Nut Brown,?,?,?,north_american_ale|american_style_brown_ale
+Krogh's Restaurant and Brewpub,Sparta,Old Krogh Oatmeal Stout,?,?,?,north_american_ale|american_style_stout
+Krogh's Restaurant and Brewpub,Sparta,Packs A Punch Porter,?,?,?,irish_ale|porter
+Krogh's Restaurant and Brewpub,Sparta,Three Sisters Golden Wheat,?,?,?,north_american_lager|american_style_lager
+Long Valley Pub & Brewery,Long Valley,Black River Brown,?,?,?,north_american_ale|american_style_brown_ale
+Long Valley Pub & Brewery,Long Valley,ESB,?,?,?,?
+Long Valley Pub & Brewery,Long Valley,German Valley Amber,?,?,?,north_american_ale|american_style_amber_red_ale
+Long Valley Pub & Brewery,Long Valley,Grist Mill Golden,?,?,?,north_american_ale|american_style_pale_ale
+Long Valley Pub & Brewery,Long Valley,Lazy Jake Porter,?,?,?,irish_ale|porter
+Long Valley Pub & Brewery,Long Valley,Oatmeal Stout,?,?,?,north_american_ale|american_style_stout
+New Jersey Beer Company,North Bergen,Hudson Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Pizzeria Uno Chicago Grill & Brewery,Metuchen,32 Inning Ale,?,?,?,?
+Pizzeria Uno Chicago Grill & Brewery,Metuchen,Bootlegger Blonde Ale,?,?,?,?
+Pizzeria Uno Chicago Grill & Brewery,Metuchen,Gust-N-Gale Porter,?,?,?,irish_ale|porter
+Pizzeria Uno Chicago Grill & Brewery,Metuchen,Oatmeal Stout,?,?,?,north_american_ale|american_style_stout
+Pizzeria Uno Chicago Grill & Brewery,Metuchen,Station House Red Ale,?,?,?,north_american_ale|american_style_amber_red_ale
+River Horse Brewing Company,Lambertville,Belgian Freeze Winter Ale,8%,?,?,north_american_ale|dark_american_belgo_style_ale
+River Horse Brewing Company,Lambertville,Hop Hazard,5.5%,?,?,north_american_ale|american_style_pale_ale
+River Horse Brewing Company,Lambertville,River Horse Lager,5%,?,?,north_american_lager|american_style_lager
+River Horse Brewing Company,Lambertville,River Horse Special Ale,4.5%,?,?,british_ale|extra_special_bitter
+River Horse Brewing Company,Lambertville,Summer Blonde,4%,?,?,north_american_ale|golden_or_blonde_ale
+River Horse Brewing Company,Lambertville,Tripel Horse,10%,?,?,belgian_and_french_ale|belgian_style_tripel
+Ship Inn Brewpub,Milford,Best Bitter,?,?,?,?
+Ship Inn Brewpub,Milford,ESB,?,?,?,?
+Ship Inn Brewpub,Milford,Golden Wheat Light,?,?,?,north_american_lager|american_style_lager
+Ship Inn Brewpub,Milford,Pheasant Plucker,?,?,?,british_ale|english_style_pale_mild_ale
+Trap Rock Restaurant and Brewery,Berkeley Heights,Blackforest Lager,?,?,?,german_lager|german_style_schwarzbier
+Trap Rock Restaurant and Brewery,Berkeley Heights,Ghost Pony Helles Lager,5.6%,?,?,?
+Trap Rock Restaurant and Brewery,Berkeley Heights,Hathor Red Lager,5.4%,?,?,north_american_lager|american_style_lager
+Trap Rock Restaurant and Brewery,Berkeley Heights,Octoberfest,?,?,?,german_lager|german_style_oktoberfest
+Trap Rock Restaurant and Brewery,Berkeley Heights,Pacific Coast Ale,5.6%,?,?,?
+Trap Rock Restaurant and Brewery,Berkeley Heights,Yorkshire Stout,4.5%,?,?,north_american_ale|american_style_stout
+Triumph Brewing of Princeton,Princeton,Amber Ale,?,?,?,north_american_ale|american_style_amber_red_ale
+Triumph Brewing of Princeton,Princeton,Bengal Gold India Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Triumph Brewing of Princeton,Princeton,Helles Lager,?,?,?,?
+Triumph Brewing of Princeton,Princeton,Honey Wheat,?,?,?,north_american_lager|american_style_lager
+Triumph Brewing of Princeton,Princeton,Imperial Stout,9%,?,?,north_american_ale|american_style_stout
+Triumph Brewing of Princeton,Princeton,Scottish Ale,?,?,?,british_ale|scotch_ale
+Triumph Brewing of Princeton,Princeton,Winter Wonder,?,?,?,?

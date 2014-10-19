@@ -1,3 +1,3 @@
-Brewery,City,Name,Tags
-Costal Extreme Brewing Company,Middletown,Newport Storm Hurricane Amber Ale,?
-The Narragansett Brewing Company,Providence,Narragansett Lager,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Costal Extreme Brewing Company,Middletown,Newport Storm Hurricane Amber Ale,5.2%,?,?,north_american_ale|american_style_amber_red_ale
+The Narragansett Brewing Company,Providence,Narragansett Lager,?,?,?,north_american_lager|american_style_lager

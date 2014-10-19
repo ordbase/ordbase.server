@@ -1,19 +1,19 @@
-Brewery,City,Name,Tags
-Blacksburg Brewing Company,Blacksburg,Blacksburger Pils,?
-Capitol City Brewing #4,Arlington,Prohibition Porter,?
-Main Street Beer Company #1,Richmond,Stubborn Mule Barleywine,?
-Main Street Beer Company #1,Richmond,Sweet Stout,?
-Richbrau Brewing Company,Richmond,Big Nasty Porter,?
-Richbrau Brewing Company,Richmond,Griffin Golden Ale,?
-Richbrau Brewing Company,Richmond,Old Nick Pale Ale,?
-Richbrau Brewing Company,Richmond,Richbrau Abbey-Style Ale,?
-Richbrau Brewing Company,Richmond,Richbrau Barleywine,?
-Richbrau Brewing Company,Richmond,Richbrau India Pale Ale,?
-Richbrau Brewing Company,Richmond,Richbrau Oatmeal Stout,?
-Richbrau Brewing Company,Richmond,Santa's Little Helper Witbier,?
-Sweet Water Tavern and Brewery,Sterling,Black Stallion Oatmeal Stout,?
-Sweet Water Tavern and Brewery,Sterling,Great American's Restaurant Pale Ale,?
-Sweetwater Tavern - Centreville,Centreville,Flying Armadillo Porter,?
-Sweetwater Tavern - Centreville,Centreville,High Desert Imperial Stout,?
-Vintage 50 Restaurant and Brew Lounge,Leesburg,50 CAT IPA,?
-Vintage 50 Restaurant and Brew Lounge,Leesburg,Point Of Rocks Pale Ale,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Blacksburg Brewing Company,Blacksburg,Blacksburger Pils,4.7%,?,?,german_lager|german_style_pilsener
+Capitol City Brewing #4,Arlington,Prohibition Porter,?,?,?,irish_ale|porter
+Main Street Beer Company #1,Richmond,Stubborn Mule Barleywine,?,?,?,?
+Main Street Beer Company #1,Richmond,Sweet Stout,?,?,?,north_american_ale|american_style_stout
+Richbrau Brewing Company,Richmond,Big Nasty Porter,6.4%,?,?,irish_ale|porter
+Richbrau Brewing Company,Richmond,Griffin Golden Ale,5.2%,?,?,north_american_ale|golden_or_blonde_ale
+Richbrau Brewing Company,Richmond,Old Nick Pale Ale,5.5%,?,?,north_american_ale|american_style_pale_ale
+Richbrau Brewing Company,Richmond,Richbrau Abbey-Style Ale,7%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Richbrau Brewing Company,Richmond,Richbrau Barleywine,12.3%,?,?,north_american_ale|american_style_barley_wine_ale
+Richbrau Brewing Company,Richmond,Richbrau India Pale Ale,6.2%,?,?,north_american_ale|american_style_india_pale_ale
+Richbrau Brewing Company,Richmond,Richbrau Oatmeal Stout,5.2%,?,?,british_ale|oatmeal_stout
+Richbrau Brewing Company,Richmond,Santa's Little Helper Witbier,5.7%,?,?,belgian_and_french_ale|belgian_style_white
+Sweet Water Tavern and Brewery,Sterling,Black Stallion Oatmeal Stout,4.8%,?,?,british_ale|oatmeal_stout
+Sweet Water Tavern and Brewery,Sterling,Great American's Restaurant Pale Ale,5.7%,?,?,north_american_ale|american_style_pale_ale
+Sweetwater Tavern - Centreville,Centreville,Flying Armadillo Porter,?,?,?,irish_ale|porter
+Sweetwater Tavern - Centreville,Centreville,High Desert Imperial Stout,?,?,?,north_american_ale|american_style_stout
+Vintage 50 Restaurant and Brew Lounge,Leesburg,50 CAT IPA,?,?,?,north_american_ale|american_style_india_pale_ale
+Vintage 50 Restaurant and Brew Lounge,Leesburg,Point Of Rocks Pale Ale,?,?,?,north_american_ale|american_style_pale_ale

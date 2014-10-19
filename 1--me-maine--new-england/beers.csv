@@ -1,26 +1,26 @@
-Brewery,City,Name,Tags
-Allagash Brewing,Portland,Allagash Fluxus 09,?
-Allagash Brewing,Portland,Allagash White,?
-Allagash Brewing,Portland,Double Ale,?
-Allagash Brewing,Portland,Four,?
-Allagash Brewing,Portland,Grand Cru,?
-Allagash Brewing,Portland,Speciale Reserve Ale,?
-Allagash Brewing,Portland,Tripel Reserve,?
-Atlantic Brewing Company,Bar Harbor,Bar Harbor Blueberry Ale,?
-Atlantic Brewing Company,Bar Harbor,Bar Harbor Real Ale,?
-Bar Harbor Brewing Company,Bar Harbor,Thunder Hole Ale,?
-Belfast Bay Brewing Company,Belfast,Lobster Ale,?
-Belfast Bay Brewing Company,Belfast,McGovern's Oatmeal Stout,?
-D.L. Geary Brewing Company,Portland,Geary's Pale Ale,?
-Pugsley Brewing,Portland,Kennebunkport IPA,?
-Sea Dog Brewing Company,Bangor,Sea Dog Apricot Wheat,?
-Sea Dog Brewing Company,Bangor,Sea Dog Blue Paw Wheat,?
-Sea Dog Brewing Company,Bangor,Sea Dog Raspberry Wheat Ale,?
-Shipyard Brewing - Portland,Portland,Export Ale,?
-Shipyard Brewing - Portland,Portland,Fuggles IPA,?
-Shipyard Brewing - Portland,Portland,Pugsley's Signature Series Barley Wine Style Ale,?
-Shipyard Brewing - Portland,Portland,Pugsley's Signature Series Imperial Porter,?
-Shipyard Brewing - Portland,Portland,Pugsley's Signature Series XXXX IPA,?
-Shipyard Brewing - Portland,Portland,Pumpkinhead Ale,?
-Shipyard Brewing - Portland,Portland,Ringwood Brewery Old Thumper Extra Special Ale,?
-Stone Coast Brewing - Portland,Portland,Sunday River Alt,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Allagash Brewing,Portland,Allagash Fluxus 09,8.3%,?,?,belgian_and_french_ale|french_&_belgian_style_saison
+Allagash Brewing,Portland,Allagash White,5%,?,?,belgian_and_french_ale|belgian_style_white
+Allagash Brewing,Portland,Double Ale,?,?,?,?
+Allagash Brewing,Portland,Four,10%,?,?,?
+Allagash Brewing,Portland,Grand Cru,7.2%,?,?,?
+Allagash Brewing,Portland,Speciale Reserve Ale,?,?,?,north_american_ale|american_style_pale_ale
+Allagash Brewing,Portland,Tripel Reserve,9%,?,?,?
+Atlantic Brewing Company,Bar Harbor,Bar Harbor Blueberry Ale,?,?,?,?
+Atlantic Brewing Company,Bar Harbor,Bar Harbor Real Ale,5.2%,?,?,?
+Bar Harbor Brewing Company,Bar Harbor,Thunder Hole Ale,4.8%,?,?,north_american_ale|american_style_brown_ale
+Belfast Bay Brewing Company,Belfast,Lobster Ale,?,?,?,north_american_ale|american_style_amber_red_ale
+Belfast Bay Brewing Company,Belfast,McGovern's Oatmeal Stout,?,?,?,british_ale|oatmeal_stout
+D.L. Geary Brewing Company,Portland,Geary's Pale Ale,4.5%,?,?,british_ale|special_bitter_or_best_bitter
+Pugsley Brewing,Portland,Kennebunkport IPA,?,?,?,north_american_ale|american_style_india_pale_ale
+Sea Dog Brewing Company,Bangor,Sea Dog Apricot Wheat,3.5%,?,?,other_style|fruit_beer
+Sea Dog Brewing Company,Bangor,Sea Dog Blue Paw Wheat,3.5%,?,?,other_style|fruit_beer
+Sea Dog Brewing Company,Bangor,Sea Dog Raspberry Wheat Ale,4.5%,?,?,other_style|light_american_wheat_ale_or_lager
+Shipyard Brewing - Portland,Portland,Export Ale,5.1%,?,?,north_american_ale|american_style_pale_ale
+Shipyard Brewing - Portland,Portland,Fuggles IPA,?,?,?,north_american_ale|american_style_india_pale_ale
+Shipyard Brewing - Portland,Portland,Pugsley's Signature Series Barley Wine Style Ale,8.5%,?,?,north_american_ale|american_style_barley_wine_ale
+Shipyard Brewing - Portland,Portland,Pugsley's Signature Series Imperial Porter,7.1%,?,?,irish_ale|porter
+Shipyard Brewing - Portland,Portland,Pugsley's Signature Series XXXX IPA,9.25%,?,?,north_american_ale|imperial_or_double_india_pale_ale
+Shipyard Brewing - Portland,Portland,Pumpkinhead Ale,4.5%,?,?,other_style|pumpkin_beer
+Shipyard Brewing - Portland,Portland,Ringwood Brewery Old Thumper Extra Special Ale,?,?,?,?
+Stone Coast Brewing - Portland,Portland,Sunday River Alt,?,?,?,north_american_ale|american_style_brown_ale

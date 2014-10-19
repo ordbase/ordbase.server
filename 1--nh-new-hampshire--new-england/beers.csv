@@ -1,27 +1,27 @@
-Brewery,City,Name,Tags
-Castle Springs Brewery,Moultonborough,Lucknow India Pale Ale,?
-Elm City Brewing Co,Keene,Elm City Schwarzbier,?
-Milly's Tavern,Manchester,Weathertop Doppelbock,?
-Pennichuck Brewing Company,Milford,BackDraft Chocolate Porter,?
-Pennichuck Brewing Company,Milford,Bagpiper's Scottish Ale,?
-Pennichuck Brewing Company,Milford,Engine 5,?
-Pennichuck Brewing Company,Milford,Feuerwehrmann Schwarzbier,?
-Pennichuck Brewing Company,Milford,Fireman's Pail Ale,?
-Pennichuck Brewing Company,Milford,Halligan IPA,?
-Pennichuck Brewing Company,Milford,Pompier,?
-Pennichuck Brewing Company,Milford,Pozharnik,?
-Pennichuck Brewing Company,Milford,Saint Florian's Doppelbock,?
-Pennichuck Brewing Company,Milford,Shouboushi Ginger Pilsner,?
-Pennichuck Brewing Company,Milford,The Big O Oktobefest,?
-Portsmouth Brewery,Portsmouth,5 C's IPA,?
-Portsmouth Brewery,Portsmouth,Bottle Rocket IPA,?
-Portsmouth Brewery,Portsmouth,Kate The Great Russian Imperial Stout,?
-Portsmouth Brewery,Portsmouth,Wheat Wine,?
-Smuttynose Brewing Co.,Portsmouth,Big A IPA,?
-Smuttynose Brewing Co.,Portsmouth,Old Brown Dog Ale,?
-Smuttynose Brewing Co.,Portsmouth,Portsmouth Lager,?
-Smuttynose Brewing Co.,Portsmouth,Robust Porter,?
-Smuttynose Brewing Co.,Portsmouth,Shoals Pale Ale,?
-Smuttynose Brewing Co.,Portsmouth,Smuttynose Finestkind IPA,?
-Smuttynose Brewing Co.,Portsmouth,Smuttynose Pumpkin Ale,?
-Smuttynose Brewing Co.,Portsmouth,Smuttynose Winter Ale,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Castle Springs Brewery,Moultonborough,Lucknow India Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Elm City Brewing Co,Keene,Elm City Schwarzbier,5.3%,?,?,german_lager|german_style_schwarzbier
+Milly's Tavern,Manchester,Weathertop Doppelbock,7.3%,?,?,german_lager|traditional_german_style_bock
+Pennichuck Brewing Company,Milford,BackDraft Chocolate Porter,?,?,?,irish_ale|porter
+Pennichuck Brewing Company,Milford,Bagpiper's Scottish Ale,9%,?,?,british_ale|scotch_ale
+Pennichuck Brewing Company,Milford,Engine 5,5%,?,?,north_american_ale|american_style_amber_red_ale
+Pennichuck Brewing Company,Milford,Feuerwehrmann Schwarzbier,5%,?,?,german_lager|german_style_schwarzbier
+Pennichuck Brewing Company,Milford,Fireman's Pail Ale,?,?,?,north_american_ale|american_style_pale_ale
+Pennichuck Brewing Company,Milford,Halligan IPA,5.1%,?,?,north_american_ale|american_style_india_pale_ale
+Pennichuck Brewing Company,Milford,Pompier,12.1%,?,?,?
+Pennichuck Brewing Company,Milford,Pozharnik,8.1%,?,?,north_american_ale|american_style_imperial_stout
+Pennichuck Brewing Company,Milford,Saint Florian's Doppelbock,?,?,?,german_lager|german_style_doppelbock
+Pennichuck Brewing Company,Milford,Shouboushi Ginger Pilsner,5.1%,?,?,german_lager|german_style_pilsener
+Pennichuck Brewing Company,Milford,The Big O Oktobefest,?,?,?,german_lager|german_style_oktoberfest
+Portsmouth Brewery,Portsmouth,5 C's IPA,6.5%,?,?,north_american_ale|american_style_india_pale_ale
+Portsmouth Brewery,Portsmouth,Bottle Rocket IPA,6.5%,?,?,north_american_ale|american_style_india_pale_ale
+Portsmouth Brewery,Portsmouth,Kate The Great Russian Imperial Stout,9.5%,?,?,north_american_ale|american_style_imperial_stout
+Portsmouth Brewery,Portsmouth,Wheat Wine,11.5%,?,?,?
+Smuttynose Brewing Co.,Portsmouth,Big A IPA,9.6%,?,?,north_american_ale|imperial_or_double_india_pale_ale
+Smuttynose Brewing Co.,Portsmouth,Old Brown Dog Ale,5.9%,?,?,north_american_ale|american_style_brown_ale
+Smuttynose Brewing Co.,Portsmouth,Portsmouth Lager,5.1%,?,?,?
+Smuttynose Brewing Co.,Portsmouth,Robust Porter,5.4%,?,?,irish_ale|porter
+Smuttynose Brewing Co.,Portsmouth,Shoals Pale Ale,4.7%,?,?,north_american_ale|american_style_pale_ale
+Smuttynose Brewing Co.,Portsmouth,Smuttynose Finestkind IPA,5.6%,?,?,north_american_ale|american_style_india_pale_ale
+Smuttynose Brewing Co.,Portsmouth,Smuttynose Pumpkin Ale,5.1%,?,?,other_style|pumpkin_beer
+Smuttynose Brewing Co.,Portsmouth,Smuttynose Winter Ale,4.8%,?,?,belgian_and_french_ale|belgian_style_dubbel

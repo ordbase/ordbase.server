@@ -1,17 +1,17 @@
-Brewery,City,Name,Tags
-Blackstone Restaurant & Brewery,Nashville,Chaser Pale,?
-Blackstone Restaurant & Brewery,Nashville,Nut Brown Ale,?
-Boscos Memphis Brewing,Germantown,Dunkel,?
-Calhoun's Microbrewery,Knoxville,Cherokee Red Ale,?
-Smoky Mountain Brewing,Knoxville,Black Bear Ale,?
-Yazoo Brewing,Nashville,Dos Perros,?
-Yazoo Brewing,Nashville,Dos Perros,?
-Yazoo Brewing,Nashville,ESB,?
-Yazoo Brewing,Nashville,Hefeweizen,?
-Yazoo Brewing,Nashville,Hefeweizen,?
-Yazoo Brewing,Nashville,Onward Stout,?
-Yazoo Brewing,Nashville,Onward Stout,?
-Yazoo Brewing,Nashville,Pale Ale,?
-Yazoo Brewing,Nashville,Pale Ale,?
-Yazoo Brewing,Nashville,Sly Rye Porter,?
-Yazoo Brewing,Nashville,Sly Rye Porter,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Blackstone Restaurant & Brewery,Nashville,Chaser Pale,?,?,?,?
+Blackstone Restaurant & Brewery,Nashville,Nut Brown Ale,?,?,?,north_american_ale|american_style_brown_ale
+Boscos Memphis Brewing,Germantown,Dunkel,?,?,?,?
+Calhoun's Microbrewery,Knoxville,Cherokee Red Ale,?,?,?,north_american_ale|american_style_amber_red_ale
+Smoky Mountain Brewing,Knoxville,Black Bear Ale,?,?,?,north_american_ale|american_style_brown_ale
+Yazoo Brewing,Nashville,Dos Perros,3.5%,21,13,north_american_ale|american_style_brown_ale
+Yazoo Brewing,Nashville,Dos Perros,3.5%,?,?,north_american_ale|dark_american_belgo_style_ale
+Yazoo Brewing,Nashville,ESB,?,?,?,british_ale|extra_special_bitter
+Yazoo Brewing,Nashville,Hefeweizen,5%,?,?,german_ale|south_german_style_hefeweizen
+Yazoo Brewing,Nashville,Hefeweizen,5%,13,3,german_ale|south_german_style_hefeweizen
+Yazoo Brewing,Nashville,Onward Stout,3.8%,?,?,north_american_ale|american_style_stout
+Yazoo Brewing,Nashville,Onward Stout,3.8%,35,45,north_american_ale|american_style_stout
+Yazoo Brewing,Nashville,Pale Ale,5.8%,55,6,north_american_ale|american_style_strong_pale_ale
+Yazoo Brewing,Nashville,Pale Ale,5.8%,?,?,north_american_ale|american_style_pale_ale
+Yazoo Brewing,Nashville,Sly Rye Porter,5.7%,28,29,north_american_ale|porter
+Yazoo Brewing,Nashville,Sly Rye Porter,5.7%,?,?,irish_ale|porter

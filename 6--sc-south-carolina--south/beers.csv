@@ -1,26 +1,26 @@
-Brewery,City,Name,Tags
-Blue Ridge Brewing,Greenville,Colonel Paris Pale Ale,?
-Liberty Steakhouse and Brewery,Myrtle Beach,Amber Waves,?
-Liberty Steakhouse and Brewery,Myrtle Beach,Liberty Nut Brown Ale,?
-Liberty Steakhouse and Brewery,Myrtle Beach,Liberty Pale Ale,?
-Liberty Steakhouse and Brewery,Myrtle Beach,Liberty Raspberry Wheat Ale,?
-Liberty Steakhouse and Brewery,Myrtle Beach,Liberty Unfiltered Wheat Ale,?
-Liberty Steakhouse and Brewery,Myrtle Beach,Liberty White Ale,?
-Liberty Steakhouse and Brewery,Myrtle Beach,Miss Liberty Lager,?
-Liberty Steakhouse and Brewery,Myrtle Beach,Patriot Porter,?
-Liberty Steakhouse and Brewery,Myrtle Beach,Rocket's Red Ale,?
-Palmetto Brewing,Charleston,Pale Ale,?
-Southend Brewery and Smokehouse - Charleston,Charleston,Blonde,?
-Southend Brewery and Smokehouse - Charleston,Charleston,Blonde Light,?
-Southend Brewery and Smokehouse - Charleston,Charleston,Bombay Pale Ale,?
-Southend Brewery and Smokehouse - Charleston,Charleston,East Bay Brown,?
-Southend Brewery and Smokehouse - Charleston,Charleston,Frostbite,?
-Southend Brewery and Smokehouse - Charleston,Charleston,Ironman Wheat,?
-Southend Brewery and Smokehouse - Charleston,Charleston,Ruby Red Lager,?
-Southend Brewery and Smokehouse - Charleston,Charleston,Scarlet Ale,?
-T-Bonz Gill | Grill and Brewery,Mount Pleasant,Cooper River Red,?
-T-Bonz Gill | Grill and Brewery,Mount Pleasant,Low Country Light Lager,?
-T-Bonz Gill | Grill and Brewery,Mount Pleasant,Market Street Wheat,?
-T-Bonz Gill | Grill and Brewery,Mount Pleasant,Raspberry Wheat,?
-T-Bonz Gill | Grill and Brewery,Mount Pleasant,Stout,?
-T-Bonz Gill | Grill and Brewery,Mount Pleasant,Winterfest,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Blue Ridge Brewing,Greenville,Colonel Paris Pale Ale,4.5%,?,?,north_american_ale|american_style_pale_ale
+Liberty Steakhouse and Brewery,Myrtle Beach,Amber Waves,?,?,?,north_american_ale|american_style_amber_red_ale
+Liberty Steakhouse and Brewery,Myrtle Beach,Liberty Nut Brown Ale,?,?,?,north_american_ale|american_style_brown_ale
+Liberty Steakhouse and Brewery,Myrtle Beach,Liberty Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Liberty Steakhouse and Brewery,Myrtle Beach,Liberty Raspberry Wheat Ale,?,?,?,other_style|fruit_beer
+Liberty Steakhouse and Brewery,Myrtle Beach,Liberty Unfiltered Wheat Ale,?,?,?,other_style|light_american_wheat_ale_or_lager
+Liberty Steakhouse and Brewery,Myrtle Beach,Liberty White Ale,?,?,?,belgian_and_french_ale|belgian_style_white
+Liberty Steakhouse and Brewery,Myrtle Beach,Miss Liberty Lager,?,?,?,north_american_lager|american_style_lager
+Liberty Steakhouse and Brewery,Myrtle Beach,Patriot Porter,?,?,?,irish_ale|porter
+Liberty Steakhouse and Brewery,Myrtle Beach,Rocket's Red Ale,6%,?,?,north_american_ale|american_style_amber_red_ale
+Palmetto Brewing,Charleston,Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Southend Brewery and Smokehouse - Charleston,Charleston,Blonde,?,?,?,north_american_lager|american_style_lager
+Southend Brewery and Smokehouse - Charleston,Charleston,Blonde Light,?,?,?,north_american_lager|american_style_lager
+Southend Brewery and Smokehouse - Charleston,Charleston,Bombay Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Southend Brewery and Smokehouse - Charleston,Charleston,East Bay Brown,?,?,?,north_american_ale|american_style_brown_ale
+Southend Brewery and Smokehouse - Charleston,Charleston,Frostbite,?,?,?,north_american_ale|american_style_pale_ale
+Southend Brewery and Smokehouse - Charleston,Charleston,Ironman Wheat,?,?,?,north_american_lager|american_style_lager
+Southend Brewery and Smokehouse - Charleston,Charleston,Ruby Red Lager,?,?,?,north_american_lager|american_style_lager
+Southend Brewery and Smokehouse - Charleston,Charleston,Scarlet Ale,?,?,?,north_american_ale|american_style_amber_red_ale
+T-Bonz Gill | Grill and Brewery,Mount Pleasant,Cooper River Red,?,?,?,north_american_ale|american_style_amber_red_ale
+T-Bonz Gill | Grill and Brewery,Mount Pleasant,Low Country Light Lager,?,?,?,north_american_lager|american_style_lager
+T-Bonz Gill | Grill and Brewery,Mount Pleasant,Market Street Wheat,?,?,?,north_american_lager|american_style_lager
+T-Bonz Gill | Grill and Brewery,Mount Pleasant,Raspberry Wheat,?,?,?,other_style|light_american_wheat_ale_or_lager
+T-Bonz Gill | Grill and Brewery,Mount Pleasant,Stout,?,?,?,north_american_ale|american_style_stout
+T-Bonz Gill | Grill and Brewery,Mount Pleasant,Winterfest,?,?,?,north_american_ale|american_style_brown_ale

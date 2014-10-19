@@ -1,19 +1,19 @@
-Name,Address,City,State,Code,Website
-Asheville Pizza and Brewing Co.,675 Merrimon Avenue,Asheville,ND,28804,?
-Aviator Brewing Company,209 Technology Park Lane,Fuquay Varina,ND,27526,?
-Big Boss Brewing Company,1249-A Wicker Drive,Raleigh,ND,27604,?
-Carolina Beer Company,110 Barley Park Lane,Mooresville,ND,28115,?
-Carolina Brewery,460 West Franklin Street,Chapel Hill,ND,27516,?
-Duck-Rabbit Craft Brewery,4519 W. Pine Street,Farmville,ND,27828,?
-First Coast Brewing,?,Wilmington,ND,?,?
-Foothills Brewing Company,638 W. 4th Street,Winston-Salem,ND,27101,?
-Greenshields Brewery and Pub,?,Raleigh,ND,?,?
-Ham's Restaurant and Brewhouse,701 Evans Street,Greenville,ND,27834,?
-Highland Brewing Company,12 Old Charlotte Highway,Asheville,ND,28803,?
-Mash House Restaurant and Brewery,4150 Sycamore Dairy Road,Fayetteville,ND,28303,?
-Pinehurst Village Brewery,?,Aberdeen,ND,?,?
-Red Oak Brewery,6901 Konica Drive,Whitsett,ND,27377,?
-Steve and Clark's Brew Pub and Sausage Co. #2,?,Durham,ND,?,?
-Top of the Hill Restaurant and Brewery,101 East Franklin Street,Chapel Hill,ND,27514,?
-Weeping Radish Restaurant and Brewery - Manteo,525 N Virginia Dare Road,Manteo,ND,27954,?
-Wilmington Brewing,?,Wilmington,ND,?,?
+Name,Address,City,State,Code,Website,Tags
+Asheville Pizza and Brewing Co.,675 Merrimon Avenue,Asheville,ND,28804,?,?
+Aviator Brewing Company,209 Technology Park Lane,Fuquay Varina,ND,27526,?,?
+Big Boss Brewing Company,1249-A Wicker Drive,Raleigh,ND,27604,?,?
+Carolina Beer Company,110 Barley Park Lane,Mooresville,ND,28115,?,?
+Carolina Brewery,460 West Franklin Street,Chapel Hill,ND,27516,?,?
+Duck-Rabbit Craft Brewery,4519 W. Pine Street,Farmville,ND,27828,?,?
+First Coast Brewing,?,Wilmington,ND,,?,?
+Foothills Brewing Company,638 W. 4th Street,Winston-Salem,ND,27101,?,?
+Greenshields Brewery and Pub,?,Raleigh,ND,,?,?
+Ham's Restaurant and Brewhouse,701 Evans Street,Greenville,ND,27834,?,?
+Highland Brewing Company,12 Old Charlotte Highway,Asheville,ND,28803,?,?
+Mash House Restaurant and Brewery,4150 Sycamore Dairy Road,Fayetteville,ND,28303,?,?
+Pinehurst Village Brewery,?,Aberdeen,ND,,?,?
+Red Oak Brewery,6901 Konica Drive,Whitsett,ND,27377,?,?
+Steve and Clark's Brew Pub and Sausage Co. #2,?,Durham,ND,,?,?
+Top of the Hill Restaurant and Brewery,101 East Franklin Street,Chapel Hill,ND,27514,?,?
+Weeping Radish Restaurant and Brewery - Manteo,525 N Virginia Dare Road,Manteo,ND,27954,?,?
+Wilmington Brewing,?,Wilmington,ND,,?,?

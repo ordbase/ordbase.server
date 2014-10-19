@@ -1,6 +1,6 @@
-Brewery,City,Name,Tags
-Capital City Brewing Company,Washington,Amber Waves,?
-Capital City Brewing Company,Washington,Capitol Kolsch,?
-Capital City Brewing Company,Washington,Irish Red Ale,?
-Capital City Brewing Company,Washington,St. Adrian's Alt,?
-DC Brau,Washington,The Public,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Capital City Brewing Company,Washington,Amber Waves,5.3%,?,?,north_american_ale|american_style_amber_red_ale
+Capital City Brewing Company,Washington,Capitol Kolsch,4.8%,?,?,?
+Capital City Brewing Company,Washington,Irish Red Ale,5.2%,?,?,irish_ale|irish_style_red_ale
+Capital City Brewing Company,Washington,St. Adrian's Alt,?,?,?,german_ale|german_style_brown_ale_altbier
+DC Brau,Washington,The Public,6%,?,?,north_american_ale|american_style_pale_ale

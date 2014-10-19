@@ -1,4 +1,4 @@
-Brewery,City,Name,Tags
-Diamond Bear Brewing Co.,Little Rock,Irish Red,?
-Diamond Bear Brewing Co.,Little Rock,Paradise Porter,?
-Diamond Bear Brewing Co.,Little Rock,Southern Blonde,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Diamond Bear Brewing Co.,Little Rock,Irish Red,?,?,?,?
+Diamond Bear Brewing Co.,Little Rock,Paradise Porter,4.99%,?,?,irish_ale|porter
+Diamond Bear Brewing Co.,Little Rock,Southern Blonde,?,?,?,?
