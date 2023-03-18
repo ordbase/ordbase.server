@@ -1,0 +1,54 @@
+project_name: ordbase
+
+builds:
+-  # You can have multiple builds defined as a yaml list
+
+  # Binary name.
+  # Can be a path (e.g. `bin/app`) to wrap the binary in a directory.
+  # Default is the name of the project directory.
+  binary: ordbase
+
+
+  # GOOS list to build for.
+  # For more info refer to: https://golang.org/doc/install/source#environment
+  # Defaults are darwin and linux.
+  goos:
+  - linux
+  - windows
+  - darwin
+# - freebsd
+
+  # GOARCH to build for.
+  # For more info refer to: https://golang.org/doc/install/source#environment
+  # Defaults are 386, amd64 and arm64.
+  goarch:
+  - amd64
+  - arm        ## used by rasberry - linux arm 32-bit
+  - arm64
+
+
+  # Optionally override the matrix generation and specify only the final list of targets.
+  # Format is `{goos}_{goarch}` with optionally a suffix with `_{goarm}` or `_{gomips}`.
+  # This overrides `goos`, `goarch`, `goarm`, `gomips` and `ignores`.
+  targets:
+  - linux_amd64
+  - linux_arm          # rasberry - linux arm 32-bit
+  - windows_amd64
+  - darwin_amd64
+  - darwin_arm64
+  # - freebsd_amd64
+
+
+archives:
+-
+
+  # change darwin - to macos or such - why? why not?
+
+  # Can be used to change the archive formats for specific GOOS.
+  format_overrides:
+    - goos: windows
+      format: zip
+  replacements:
+    amd64: 64bit
+    386: 32bit
+    darwin: macos
