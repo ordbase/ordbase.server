@@ -61,14 +61,11 @@ The pixel art collections pre-configured¹ include:
 - And more
 
 
-For more see the [**Ordinals Sandbox (& Cache)** »](https://github.com/pixelartexchange/ordinals.sandbox)
-
-
-
 ¹: see [collections.csv](collections.csv)
 
 
 
+Bonus: For more see the [**Ordinals Sandbox (& Cache)** »](https://github.com/pixelartexchange/ordinals.sandbox)
 
 
 
