@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	// "log"
-	"os"
+	// "os"
 	"net/http"
 
 
@@ -15,11 +15,11 @@ import (
 
 
 
-
 func main() {
 
+  url := "https://github.com/pixelartexchange/ordbase.server/raw/master/collections.csv"
 
-  // todo - download collections (config) here
+	collections := artbase.DownloadCollections( url )
 
 	serve := serve.NewRouter( collections )
 
@@ -28,13 +28,6 @@ func main() {
 	//       if binding to :8080 only  - why? why not?
 
   addr := "localhost:8080"
-
-	// check for port in env settings - required by heroku
-	port := os.Getenv( "PORT" )
-	if port != "" {
-		addr = ":" + port
-	}
-
 
  	http.ListenAndServe( addr, serve )
 

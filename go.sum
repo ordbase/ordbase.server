@@ -2,3 +2,5 @@ github.com/learnpixelart/pixelart.go v0.0.0-20221027145508-aa6320022498 h1:0gGle
 github.com/learnpixelart/pixelart.go v0.0.0-20221027145508-aa6320022498/go.mod h1:28Fu/gR/6D/enGNVTTDHARliKOEBoHStb+r88OfoOFY=
 github.com/pixelartexchange/artbase.server v1.0.1 h1:sXnGpcDqbh28MIFesaXM2cm2N0WNNqoa21ML2dvzmdM=
 github.com/pixelartexchange/artbase.server v1.0.1/go.mod h1:yJ0lo6XQ+ORG/rIklIoHOjGZZYWj7gXA4Rk5WD4Lemg=
+github.com/pixelartexchange/artbase.server v1.1.0 h1:vMCmV5USPyeWzexq6OIQnapbqGDMZu2zmOaSXMB5rKU=
+github.com/pixelartexchange/artbase.server v1.1.0/go.mod h1:hDde7qwetXKuuOsMCqau8ocCVzu12EQ10XgbUGuVG0M=

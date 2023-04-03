@@ -12,7 +12,7 @@ Find the archives to download  - about 3 Megabytes (MB) - for Windows, Linux and
 Unpack the archive (e.g. `ordbase-*.tar.gz` or `ordbase-*.zip`) and than start / run the binary:
 
 ```
-$ ordbase
+$ ordbased
 ```
 
 This will start-up a (web) server (listening on port 8080). To test open up `http://localhost:8080` in your browser (to get the index web page listing all collections).
@@ -24,14 +24,14 @@ This will start-up a (web) server (listening on port 8080). To test open up `htt
 Use / issue / type  (in the `/ordbase.server` directory):
 
 ```
-$ go build ordbase.go
+$ go build ordbased.go
 ```
 
 to get a zero-config x-copy binary for your operation system / architecture.
 To run use:
 
 ```
-$ ordbase
+$ ordbased
 ```
 
 This will start-up a (web) server (listening on port 8080). To test open up `http://localhost:8080` in your browser (to get the index web page listing all collections).
@@ -50,7 +50,7 @@ pixel art collections (using all-in-one image composites)
 to your working directory and use the "cached" version from the next time on (incl. server restarts).
 
 
-The pixel art collections pre-configured include:
+The pixel art collections pre-configured¹ include:
 
 
 - [ordinalpunks](https://github.com/pixelartexchange/ordinals.sandbox/blob/master/i/ordinalpunks.png) (24x24)
@@ -62,6 +62,12 @@ The pixel art collections pre-configured include:
 
 
 For more see the [**Ordinals Sandbox (& Cache)** »](https://github.com/pixelartexchange/ordinals.sandbox)
+
+
+
+¹: see [collections.csv](collections.csv)
+
+
 
 
 
