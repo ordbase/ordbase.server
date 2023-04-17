@@ -7,7 +7,7 @@ ordbase - zero-config web server / services; (auto-)downloads & serves pre-confi
 
 ## Download Binaries For Easy "Xcopy" Installation
 
-Find the archives to download  - about 3 Megabytes (MB) - for Windows, Linux and Friends at the [**Releases Page »**](https://github.com/pixelartexchange/ordbase.server/releases).
+Find the archives to download  - about 3 Megabytes (MB) - for Windows, Linux and Friends at the [**Releases Page »**](https://github.com/ordbase/ordbase.server/releases).
 
 Unpack the archive (e.g. `ordbase-*.tar.gz` or `ordbase-*.zip`) and than start / run the binary:
 
@@ -53,11 +53,11 @@ to your working directory and use the "cached" version from the next time on (in
 The pixel art collections pre-configured¹ include:
 
 
-- [ordinalpunks](https://github.com/pixelartexchange/ordinals.sandbox/blob/master/i/ordinalpunks.png) (24x24)
-- [ordinalphunks](https://github.com/pixelartexchange/ordinals.sandbox/blob/master/i/ordinalphunks.png) (24x24)
-- [lilordinalphunks](https://github.com/pixelartexchange/ordinals.sandbox/blob/master/i/lilordinalphunks.png) (24x24)
-- [ordoggies](https://github.com/pixelartexchange/ordinals.sandbox/blob/master/i/ordoggies.png) (32x32)
-- [bitcoinpunks](https://github.com/pixelartexchange/ordinals.sandbox/blob/master/i/bitcoinpunks.png) (24x24)
+- [ordinalpunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/ordinalpunks.png) (24x24)
+- [ordinalphunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/ordinalphunks.png) (24x24)
+- [lilordinalphunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/lilordinalphunks.png) (24x24)
+- [ordoggies](https://github.com/ordbase/ordinals.sandbox/blob/master/i/ordoggies.png) (32x32)
+- [bitcoinpunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/bitcoinpunks.png) (24x24)
 - And more
 
 
@@ -65,7 +65,7 @@ The pixel art collections pre-configured¹ include:
 
 
 
-Bonus: For more see the [**Ordinals Sandbox (& Cache)** »](https://github.com/pixelartexchange/ordinals.sandbox)
+Bonus: For more see the [**Ordinals Sandbox (& Cache)** »](https://github.com/ordbase/ordinals.sandbox)
 
 
 

@@ -17,7 +17,7 @@ import (
 
 func main() {
 
-  url := "https://github.com/pixelartexchange/ordbase.server/raw/master/collections.csv"
+  url := "https://github.com/ordbase/ordbase.server/raw/master/collections.csv"
 
 	collections := artbase.DownloadCollections( url )
 
