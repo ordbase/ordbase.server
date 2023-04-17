@@ -1,4 +1,4 @@
-module github.com/pixelartexchange/ordbase.server
+module github.com/ordbase/ordbase.server
 
 go 1.18
 
