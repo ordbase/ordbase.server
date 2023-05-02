@@ -1,6 +1,6 @@
-# Ordinal Base Server
+# ordbased - (Zero-Config) Art Base Server for Ordinal Inscriptions
 
-ordbase - zero-config web server / services; (auto-)downloads & serves pre-configured pixel art collections "out-of-the-box"; incl. 2x/4x/8x zoom for bigger image sizes and more; binaries for easy "xcopy" installation for windows, linux & friends
+ordbased - zero-config web server / services; (auto-)downloads & serves pre-configured pixel art collections "out-of-the-box"; incl. 2x/4x/8x zoom for bigger image sizes and more; binaries for easy "xcopy" installation for windows, linux & friends
 
 
 
