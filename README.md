@@ -57,7 +57,7 @@ The pixel art collections pre-configured¹ include:
 - [ordinalphunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/ordinalphunks.png) (24x24)
 - [lilordinalphunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/lilordinalphunks.png) (24x24)
 - [ordoggies](https://github.com/ordbase/ordinals.sandbox/blob/master/i/ordoggies.png) (32x32)
-- [bitcoinpunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/bitcoinpunks.png) (24x24)
+- [bitcoinpunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/bitcoinpunks-ii.png) (24x24)
 - And more
 
 
