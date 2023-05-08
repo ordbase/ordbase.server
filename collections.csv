@@ -3,10 +3,15 @@ ordinalpunks,       24x24, ,     100,  https://github.com/ordbase/ordinals.sandb
 ordinalphunks,      24x24, ,     101,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalphunks.png
 lilordinalphunks,   24x24, ,     101,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/lilordinalphunks.png
 ordoggies,          32x32, ,     101,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordoggies.png
-bitcoinpunks,       24x24, true, 100,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/bitcoinpunks.png
+bitcoinpunks,       24x24, ,     100,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/bitcoinpunks-ii.png
+taprootpunks,       24x24, ,     100,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/taprootpunks-ii.png
+forgottenpunks,     24x24, ,      80,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/forgottenpunks-ii.png
+cyberordinals,      24x24, ,      40,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/cyberordinals-ii.png
+ordinalumekopunks,  24x24, ,     100,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalumekopunks-ii.png
 gpunks,             24x24, true,  88,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/gpunks.png
 ordinalheropunks,   24x24, true,  50,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalheropunks.png
 litecoinpunks,      24x24, true, 100,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/litecoinpunks.png
+punkslite,          24x24, ,      99,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/punkslite-ii.png
 ordinaryapes,       24x24, true, 100,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinaryapes.png
 pixelpepes,         24x24, true, 111,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/pixelpepes.png
 dogepunks,          28x28, true,  69,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/dogepunks.png
