@@ -53,6 +53,11 @@ to your working directory and use the "cached" version from the next time on (in
 The pixel art collections pre-configured¹ include:
 
 
+- [d.i.y. punks](https://github.com/ordbase/generative-orc-721/blob/master/diypunks/i/diypunks_max721.png) (24x24)
+- [d.i.y. apes](https://github.com/ordbase/generative-orc-721/blob/master/diyapes/i/diyapes.png) (24x24)
+- [d.i.y. aliens](https://github.com/ordbase/generative-orc-721/blob/master/diyaliens/i/diyaliens.png) (24x24)
+- [d.i.y. martians](https://github.com/ordbase/generative-orc-721/blob/master/diymartians/i/diymartians.png) (24x24)
+- [d.i.y. maxi biz](https://github.com/ordbase/generative-orc-721/blob/master/diymaxibiz/i/diymaxibiz.png) (24x24)
 - [ordinalpunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/ordinalpunks.png) (24x24)
 - [ordinalphunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/ordinalphunks.png) (24x24)
 - [lilordinalphunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/lilordinalphunks.png) (24x24)

@@ -1,4 +1,24 @@
 name,               size,  background, count, url
+
+
+diypunks,      24x24, , 721, https://github.com/ordbase/generative-orc-721/raw/master/diypunks/i/diypunks_max721.png
+diypunks-ii,   24x24, , 721, https://github.com/orc721/sandbox/raw/master/diypunks/i/diypunks.png
+diypunks-pepe, 24x24, , 721, https://github.com/orc721/sandbox/raw/master/diypunks/i/diypunks-pepe.png
+
+diyapes,       24x24, , 100, https://github.com/ordbase/generative-orc-721/raw/master/diyapes/i/diyapes.png
+diyapes-ii,    24x24, , 100, https://github.com/orc721/sandbox/raw/master/diyapes/i/diyapes-ii.png
+diyapes-pink,  24x24, , 100, https://github.com/orc721/sandbox/raw/master/diyapes/i/diyapes-pink.png
+diyapes-gold,   24x24, , 100, https://github.com/orc721/sandbox/raw/master/diyapes/i/diyapes-gold.png
+diyapes-bitcoin, 24x24, , 100, https://github.com/orc721/sandbox/raw/master/diyapes/i/diyapes-bitcoin.png
+diyapes-pepe,   24x24,  , 100, https://github.com/orc721/sandbox/raw/master/diyapes/i/diyapes-pepe.png
+
+
+diyaliens,   24x24, ,  100, https://github.com/ordbase/generative-orc-721/blob/master/diyaliens/i/diyaliens.png
+diymartians, 24x24, ,  100, https://github.com/ordbase/generative-orc-721/blob/master/diymartians/i/diymartians.png
+
+diymaxibiz,  24x24, , 100, https://github.com/ordbase/generative-orc-721/blob/master/diymaxibiz/i/diymaxibiz.png
+
+
 ordinalpunks,       24x24, ,     100,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalpunks.png
 ordinalphunks,      24x24, ,     101,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalphunks.png
 lilordinalphunks,   24x24, ,     101,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/lilordinalphunks.png
